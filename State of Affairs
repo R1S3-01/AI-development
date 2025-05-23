@@ -1,0 +1,71 @@
+minimax is working and in great condition
+MCTS is fully working and in great condition
+Q-table is working BUT needs training
+CNN needs more structural oprimisation and training, need to see if more layers would be better need to see if more neurons, need to play around with rewards
+
+
+15/03/2025 changes:CNN
+Test One
+the replay buffer will be reduced by 75%
+Implementing soft target network updates
+added dropout of 0.1
+added BatchNorm2d
+lets run and see if the results look good or terrible
+
+16/03/2025
+Test Two
+want to try 258 batch size
+want to try 4 layers again
+500 target network frequency and 1% updates
+
+Test Three
+258 batch size
+3 layers
+1000 target update frequency
+2 Convo2D layers
+
+19/03/25
+The network is struggling to break its current level off progress.
+To resolve this, im going to conduct a more exploration based training batch, keeping epsilon at a higher level for longer.
+Also i will be breaking the training down more as to keep the training back more varied
+
+21/03/25
+Training the Q-network now for the last time and officially. Still need to do more CNN training but not much !
+Q-Leaning training batch one
+Qnet (P1) vs Mini D6 (P2)=0 wins this just isnt enough training with too high of a epsilon to find the win path but its okay for now this will change in time
+Qnet (P1) vs MCTS T100 (P2)= Even with the massive epsilon we are getting lots of wins around 15% at the end which is good for so early on
+Qnet (P1) vs Mini D6 (p2)=10% wins, this at first is counter intuative, but it must be something in how the Minimax plays P1 being more consistent than how it plays P2
+6 depth and 100 rollouts epsilon start 1.00 epsilon end 0.17
+7 depth and 300 rollouts epsilon start 1.00 epsilon end 0.17
+8 depth and 500 rollouts epsilon start 0.75 epsilon end 0.20
+
+22/03/25
+This could be the last training ran, we will have too see...
+we are doing mega mega training both on q table and DQN, what we are hoping is too see them both get rather good from this.
+any weaknesses will be ironed out but im expecting them to be okay after this, if this ever ends....
+
+
+Adjusted the player vs player settings to increase balance
+Resolved major bug in how data was accumulated.
+
+15/04/25-very interesting test data about how Low MCTS is peforming against different levls of mini:
+here is the total number of outcomes for DRAW |low mcts|higher mini
+ [0, 36, 44]
+low mcts average time to move 0.5434816451581477
+higher mini average time to move 1.301677834368499
+here is the total number of outcomes for DRAW |low mcts|high mini
+ [0, 18, 62]
+low mcts average time to move 0.7203983087975028
+high mini average time to move 1.015490810848955
+here is the total number of outcomes for DRAW |low mcts| mid mini
+ [2, 34, 44]
+low mcts average time to move 0.6511051797212565
+mid mini average time to move 0.0594939275917758
+here is the total number of outcomes for DRAW |low mcts|low mini
+ [1, 56, 23]
+low mcts average time to move 0.6310197206405421
+low mini average time to move 0.0038900061490687917
+
+Process finished with exit code 0
+
+#Have to restart training from low MCTS decisive thats why there will be a likley increas in miniax time

@@ -1,0 +1,409 @@
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 9.23
+  3- Time to complete batch: 74.6676
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 9.73
+  3- Time to complete batch: 53.9016
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- QT P2 Wins: 1 | Mini P1 Wins: 4999
+  2- Avg moves per game: 10.09
+  3- Time to complete batch: 44.1855
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 10.65
+  3- Time to complete batch: 41.1769
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 11.24
+  3- Time to complete batch: 34.7646
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 12.26
+  3- Time to complete batch: 27.1635
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 13.26
+  3- Time to complete batch: 25.1931
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 14.94
+  3- Time to complete batch: 21.5043
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- QT P2 Wins: 21 | Mini P1 Wins: 4979
+  2- Avg moves per game: 17.44
+  3- Time to complete batch: 18.1961
+------------------------------
+Mini D=6(P1) vs Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- QT P2 Wins: 421 | Mini P1 Wins: 4579
+  2- Avg moves per game: 20.64
+  3- Time to complete batch: 16.9179
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 9.09
+  3- Time to complete batch: 282.0742
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- QT P2 Wins: 1 | Mini P1 Wins: 4999
+  2- Avg moves per game: 9.41
+  3- Time to complete batch: 181.6323
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 9.82
+  3- Time to complete batch: 154.6104
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 10.31
+  3- Time to complete batch: 129.9509
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 10.57
+  3- Time to complete batch: 106.0445
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 11.17
+  3- Time to complete batch: 84.1622
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 12.22
+  3- Time to complete batch: 83.9949
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 14.07
+  3- Time to complete batch: 67.0369
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- QT P2 Wins: 1 | Mini P1 Wins: 4971
+  2- Avg moves per game: 17.27
+  3- Time to complete batch: 57.3269
+------------------------------
+Mini D=7(P1) vs Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- QT P2 Wins: 234 | Mini P1 Wins: 4627
+  2- Avg moves per game: 19.71
+  3- Time to complete batch: 49.9339
+------------------------------
+first day of training
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [5000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 10.88
+  3- Time to complete batch: 355.9873
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [10000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 11.22
+  3- Time to complete batch: 169.6624
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [15000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 11.95
+  3- Time to complete batch: 152.5751
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [20000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 12.42
+  3- Time to complete batch: 107.0751
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [25000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 13.31
+  3- Time to complete batch: 94.4345
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [30000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 14.34
+  3- Time to complete batch: 84.2025
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [35000/75000]:
+  1- QT P2 Wins: 3 | Mini P1 Wins: 4997
+  2- Avg moves per game: 15.70
+  3- Time to complete batch: 78.7909
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [40000/75000]:
+  1- QT P2 Wins: 2 | Mini P1 Wins: 4995
+  2- Avg moves per game: 17.52
+  3- Time to complete batch: 66.4361
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [45000/75000]:
+  1- QT P2 Wins: 3 | Mini P1 Wins: 4960
+  2- Avg moves per game: 18.61
+  3- Time to complete batch: 56.7056
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [50000/75000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 4912
+  2- Avg moves per game: 21.15
+  3- Time to complete batch: 59.9002
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [55000/75000]:
+  1- QT P2 Wins: 310 | Mini P1 Wins: 4604
+  2- Avg moves per game: 22.15
+  3- Time to complete batch: 52.4945
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [60000/75000]:
+  1- QT P2 Wins: 406 | Mini P1 Wins: 4563
+  2- Avg moves per game: 20.53
+  3- Time to complete batch: 59.2960
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [65000/75000]:
+  1- QT P2 Wins: 424 | Mini P1 Wins: 4563
+  2- Avg moves per game: 19.89
+  3- Time to complete batch: 51.9881
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [70000/75000]:
+  1- QT P2 Wins: 591 | Mini P1 Wins: 4406
+  2- Avg moves per game: 19.16
+  3- Time to complete batch: 55.5542
+------------------------------
+Mini D=8(P1) vs Q-Learning (P2)
+Progress Update [75000/75000]:
+  1- QT P2 Wins: 618 | Mini P1 Wins: 4374
+  2- Avg moves per game: 19.68
+  3- Time to complete batch: 51.3873
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [5000/100000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 11.92
+  3- Time to complete batch: 1286.7193
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [10000/100000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 12.30
+  3- Time to complete batch: 590.2665
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [15000/100000]:
+  1- QT P2 Wins: 0 | Mini P1 Wins: 5000
+  2- Avg moves per game: 12.59
+  3- Time to complete batch: 378.2070
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [20000/100000]:
+  1- QT P2 Wins: 1 | Mini P1 Wins: 4999
+  2- Avg moves per game: 13.12
+  3- Time to complete batch: 271.4535
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [25000/100000]:
+  1- QT P2 Wins: 5 | Mini P1 Wins: 4994
+  2- Avg moves per game: 13.25
+  3- Time to complete batch: 200.1165
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [30000/100000]:
+  1- QT P2 Wins: 18 | Mini P1 Wins: 4980
+  2- Avg moves per game: 13.86
+  3- Time to complete batch: 174.8893
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [35000/100000]:
+  1- QT P2 Wins: 33 | Mini P1 Wins: 4967
+  2- Avg moves per game: 14.72
+  3- Time to complete batch: 145.3347
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [40000/100000]:
+  1- QT P2 Wins: 55 | Mini P1 Wins: 4943
+  2- Avg moves per game: 15.37
+  3- Time to complete batch: 133.3376
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [45000/100000]:
+  1- QT P2 Wins: 97 | Mini P1 Wins: 4894
+  2- Avg moves per game: 16.23
+  3- Time to complete batch: 123.6492
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [50000/100000]:
+  1- QT P2 Wins: 177 | Mini P1 Wins: 4806
+  2- Avg moves per game: 17.52
+  3- Time to complete batch: 103.8182
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [55000/100000]:
+  1- QT P2 Wins: 285 | Mini P1 Wins: 4691
+  2- Avg moves per game: 18.96
+  3- Time to complete batch: 97.1962
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [60000/100000]:
+  1- QT P2 Wins: 441 | Mini P1 Wins: 4507
+  2- Avg moves per game: 20.49
+  3- Time to complete batch: 78.7498
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [65000/100000]:
+  1- QT P2 Wins: 734 | Mini P1 Wins: 4180
+  2- Avg moves per game: 22.57
+  3- Time to complete batch: 74.1994
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [70000/100000]:
+  1- QT P2 Wins: 890 | Mini P1 Wins: 4049
+  2- Avg moves per game: 23.09
+  3- Time to complete batch: 76.8255
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [75000/100000]:
+  1- QT P2 Wins: 937 | Mini P1 Wins: 3999
+  2- Avg moves per game: 22.92
+  3- Time to complete batch: 63.6970
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [80000/100000]:
+  1- QT P2 Wins: 921 | Mini P1 Wins: 4025
+  2- Avg moves per game: 22.86
+  3- Time to complete batch: 68.1986
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [85000/100000]:
+  1- QT P2 Wins: 891 | Mini P1 Wins: 4072
+  2- Avg moves per game: 22.36
+  3- Time to complete batch: 60.5508
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [90000/100000]:
+  1- QT P2 Wins: 836 | Mini P1 Wins: 4137
+  2- Avg moves per game: 21.55
+  3- Time to complete batch: 63.2240
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [95000/100000]:
+  1- QT P2 Wins: 789 | Mini P1 Wins: 4193
+  2- Avg moves per game: 21.20
+  3- Time to complete batch: 66.6259
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [100000/100000]:
+  1- QT P2 Wins: 756 | Mini P1 Wins: 4221
+  2- Avg moves per game: 21.29
+  3- Time to complete batch: 60.5645
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- QT P2 Wins: 13 | Mini P1 Wins: 4984
+  2- Avg moves per game: 14.30
+  3- Time to complete batch: 1346.9121
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- QT P2 Wins: 37 | Mini P1 Wins: 4958
+  2- Avg moves per game: 15.42
+  3- Time to complete batch: 417.5953
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- QT P2 Wins: 76 | Mini P1 Wins: 4907
+  2- Avg moves per game: 16.66
+  3- Time to complete batch: 262.9600
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- QT P2 Wins: 184 | Mini P1 Wins: 4779
+  2- Avg moves per game: 18.40
+  3- Time to complete batch: 199.5591
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- QT P2 Wins: 312 | Mini P1 Wins: 4627
+  2- Avg moves per game: 20.22
+  3- Time to complete batch: 131.7878
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- QT P2 Wins: 547 | Mini P1 Wins: 4426
+  2- Avg moves per game: 21.02
+  3- Time to complete batch: 96.2240
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- QT P2 Wins: 1149 | Mini P1 Wins: 3819
+  2- Avg moves per game: 24.13
+  3- Time to complete batch: 100.9961
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- QT P2 Wins: 2069 | Mini P1 Wins: 2900
+  2- Avg moves per game: 27.99
+  3- Time to complete batch: 68.4558
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- QT P2 Wins: 3796 | Mini P1 Wins: 1194
+  2- Avg moves per game: 32.94
+  3- Time to complete batch: 54.3380
+------------------------------
+Mini D=10(P1) vs Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- QT P2 Wins: 5000 | Mini P1 Wins: 0
+  2- Avg moves per game: 36.00
+  3- Time to complete batch: 55.9848
+------------------------------
+Mini D=9(P1) vs Q-Learning (P2)
+Progress Update [5000/10000]:
+  1- QT P2 Wins: 1424 | Mini P1 Wins: 3389
+  2- Avg moves per game: 25.55
+  3- Time to complete batch: 450.7421
+------------------------------
+Mini D=9(P1) vs Q-Learning (P2)
+Progress Update [10000/10000]:
+  1- QT P2 Wins: 5000 | Mini P1 Wins: 0
+  2- Avg moves per game: 40.00
+  3- Time to complete batch: 72.6864
+------------------------------
+Mini D=9(P1) vs Q-Learning (P2)
+Progress Update [5000/5000]:
+  1- QT P2 Wins: 5000 | Mini P1 Wins: 0
+  2- Avg moves per game: 40.00
+  3- Time to complete batch: 8.3918
+------------------------------

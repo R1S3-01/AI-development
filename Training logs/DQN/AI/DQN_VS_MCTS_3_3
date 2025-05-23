@@ -1,0 +1,853 @@
+DQN P1 | MCTS 20 P2
+Progress Update [5000/75000]:
+  1- DQN Wins: 699 | MCTS Wins: 4301
+  2- Avg moves per game: 16.27
+  3- Batch took: 197.20360374450684
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [10000/75000]:
+  1- DQN Wins: 1317 | MCTS Wins: 3683
+  2- Avg moves per game: 16.02
+  3- Batch took: 199.73027777671814
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [15000/75000]:
+  1- DQN Wins: 2187 | MCTS Wins: 2812
+  2- Avg moves per game: 15.00
+  3- Batch took: 199.01540327072144
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [20000/75000]:
+  1- DQN Wins: 2916 | MCTS Wins: 2080
+  2- Avg moves per game: 13.94
+  3- Batch took: 198.83638954162598
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [25000/75000]:
+  1- DQN Wins: 3676 | MCTS Wins: 1321
+  2- Avg moves per game: 12.38
+  3- Batch took: 194.7245147228241
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [30000/75000]:
+  1- DQN Wins: 3996 | MCTS Wins: 1002
+  2- Avg moves per game: 12.07
+  3- Batch took: 195.0020980834961
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [35000/75000]:
+  1- DQN Wins: 4074 | MCTS Wins: 925
+  2- Avg moves per game: 12.14
+  3- Batch took: 196.01846385002136
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [40000/75000]:
+  1- DQN Wins: 4113 | MCTS Wins: 885
+  2- Avg moves per game: 12.05
+  3- Batch took: 195.0998284816742
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [45000/75000]:
+  1- DQN Wins: 4114 | MCTS Wins: 882
+  2- Avg moves per game: 11.98
+  3- Batch took: 194.57119512557983
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [50000/75000]:
+  1- DQN Wins: 4051 | MCTS Wins: 946
+  2- Avg moves per game: 12.14
+  3- Batch took: 194.70230293273926
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [55000/75000]:
+  1- DQN Wins: 4116 | MCTS Wins: 882
+  2- Avg moves per game: 12.16
+  3- Batch took: 195.0156638622284
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [60000/75000]:
+  1- DQN Wins: 4171 | MCTS Wins: 829
+  2- Avg moves per game: 11.88
+  3- Batch took: 194.45805072784424
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [65000/75000]:
+  1- DQN Wins: 4142 | MCTS Wins: 856
+  2- Avg moves per game: 11.99
+  3- Batch took: 195.10633659362793
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [70000/75000]:
+  1- DQN Wins: 4099 | MCTS Wins: 898
+  2- Avg moves per game: 12.09
+  3- Batch took: 194.85096669197083
+==============================
+DQN P1 | MCTS 20 P2
+Progress Update [75000/75000]:
+  1- DQN Wins: 4132 | MCTS Wins: 867
+  2- Avg moves per game: 12.03
+  3- Batch took: 194.8461139202118
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [5000/75000]:
+  1- DQN Wins: 564 | MCTS Wins: 4435
+  2- Avg moves per game: 15.94
+  3- Batch took: 430.7716875076294
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [10000/75000]:
+  1- DQN Wins: 1102 | MCTS Wins: 3894
+  2- Avg moves per game: 15.78
+  3- Batch took: 377.88530802726746
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [15000/75000]:
+  1- DQN Wins: 1653 | MCTS Wins: 3344
+  2- Avg moves per game: 15.62
+  3- Batch took: 363.18601393699646
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [20000/75000]:
+  1- DQN Wins: 2454 | MCTS Wins: 2544
+  2- Avg moves per game: 15.08
+  3- Batch took: 309.93024826049805
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [25000/75000]:
+  1- DQN Wins: 3083 | MCTS Wins: 1909
+  2- Avg moves per game: 14.21
+  3- Batch took: 257.66138553619385
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [30000/75000]:
+  1- DQN Wins: 3393 | MCTS Wins: 1600
+  2- Avg moves per game: 13.68
+  3- Batch took: 255.76556372642517
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [35000/75000]:
+  1- DQN Wins: 3391 | MCTS Wins: 1602
+  2- Avg moves per game: 13.87
+  3- Batch took: 256.81946849823
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [40000/75000]:
+  1- DQN Wins: 3426 | MCTS Wins: 1569
+  2- Avg moves per game: 14.27
+  3- Batch took: 258.08652567863464
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [45000/75000]:
+  1- DQN Wins: 3017 | MCTS Wins: 1973
+  2- Avg moves per game: 15.44
+  3- Batch took: 265.15890192985535
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [50000/75000]:
+  1- DQN Wins: 2853 | MCTS Wins: 2140
+  2- Avg moves per game: 15.65
+  3- Batch took: 267.7148051261902
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [55000/75000]:
+  1- DQN Wins: 2810 | MCTS Wins: 2181
+  2- Avg moves per game: 15.69
+  3- Batch took: 405.3461034297943
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [60000/75000]:
+  1- DQN Wins: 2918 | MCTS Wins: 2075
+  2- Avg moves per game: 15.53
+  3- Batch took: 402.8236904144287
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [65000/75000]:
+  1- DQN Wins: 2926 | MCTS Wins: 2067
+  2- Avg moves per game: 15.64
+  3- Batch took: 531.7138659954071
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [70000/75000]:
+  1- DQN Wins: 2886 | MCTS Wins: 2107
+  2- Avg moves per game: 15.66
+  3- Batch took: 555.6546719074249
+==============================
+DQN P1 | MCTS 30 P2
+Progress Update [75000/75000]:
+  1- DQN Wins: 2728 | MCTS Wins: 2263
+  2- Avg moves per game: 16.72
+  3- Batch took: 438.1318111419678
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [5000/120000]:
+  1- DQN Wins: 24 | MCTS Wins: 4976
+  2- Avg moves per game: 13.55
+  3- Batch took: 466.4229950904846
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [10000/120000]:
+  1- DQN Wins: 33 | MCTS Wins: 4967
+  2- Avg moves per game: 13.92
+  3- Batch took: 477.31325340270996
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [15000/120000]:
+  1- DQN Wins: 41 | MCTS Wins: 4959
+  2- Avg moves per game: 14.73
+  3- Batch took: 489.41200947761536
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [20000/120000]:
+  1- DQN Wins: 77 | MCTS Wins: 4921
+  2- Avg moves per game: 15.32
+  3- Batch took: 502.03768706321716
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [25000/120000]:
+  1- DQN Wins: 117 | MCTS Wins: 4882
+  2- Avg moves per game: 15.98
+  3- Batch took: 507.0168414115906
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [30000/120000]:
+  1- DQN Wins: 178 | MCTS Wins: 4820
+  2- Avg moves per game: 16.64
+  3- Batch took: 526.6819360256195
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [35000/120000]:
+  1- DQN Wins: 294 | MCTS Wins: 4702
+  2- Avg moves per game: 17.10
+  3- Batch took: 530.3395736217499
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [40000/120000]:
+  1- DQN Wins: 472 | MCTS Wins: 4523
+  2- Avg moves per game: 17.90
+  3- Batch took: 545.4790289402008
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [45000/120000]:
+  1- DQN Wins: 772 | MCTS Wins: 4215
+  2- Avg moves per game: 18.17
+  3- Batch took: 549.3464508056641
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [50000/120000]:
+  1- DQN Wins: 1141 | MCTS Wins: 3849
+  2- Avg moves per game: 19.24
+  3- Batch took: 567.1878800392151
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [55000/120000]:
+  1- DQN Wins: 1556 | MCTS Wins: 3420
+  2- Avg moves per game: 19.49
+  3- Batch took: 565.8160974979401
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [60000/120000]:
+  1- DQN Wins: 1614 | MCTS Wins: 3358
+  2- Avg moves per game: 19.50
+  3- Batch took: 560.6867716312408
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [65000/120000]:
+  1- DQN Wins: 1608 | MCTS Wins: 3365
+  2- Avg moves per game: 19.61
+  3- Batch took: 564.230464220047
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [70000/120000]:
+  1- DQN Wins: 1584 | MCTS Wins: 3391
+  2- Avg moves per game: 19.69
+  3- Batch took: 569.2878272533417
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [75000/120000]:
+  1- DQN Wins: 1647 | MCTS Wins: 3324
+  2- Avg moves per game: 19.84
+  3- Batch took: 571.9444289207458
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [80000/120000]:
+  1- DQN Wins: 1751 | MCTS Wins: 3206
+  2- Avg moves per game: 20.07
+  3- Batch took: 575.2571408748627
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [85000/120000]:
+  1- DQN Wins: 1828 | MCTS Wins: 3140
+  2- Avg moves per game: 19.97
+  3- Batch took: 572.2479355335236
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [90000/120000]:
+  1- DQN Wins: 1924 | MCTS Wins: 3039
+  2- Avg moves per game: 19.80
+  3- Batch took: 568.4879848957062
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [95000/120000]:
+  1- DQN Wins: 1917 | MCTS Wins: 3045
+  2- Avg moves per game: 20.03
+  3- Batch took: 572.7790081501007
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [100000/120000]:
+  1- DQN Wins: 1979 | MCTS Wins: 2988
+  2- Avg moves per game: 19.26
+  3- Batch took: 556.6808459758759
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [105000/120000]:
+  1- DQN Wins: 2051 | MCTS Wins: 2920
+  2- Avg moves per game: 19.45
+  3- Batch took: 561.4237468242645
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [110000/120000]:
+  1- DQN Wins: 2070 | MCTS Wins: 2893
+  2- Avg moves per game: 19.51
+  3- Batch took: 560.3532688617706
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [115000/120000]:
+  1- DQN Wins: 2091 | MCTS Wins: 2861
+  2- Avg moves per game: 19.42
+  3- Batch took: 565.7600808143616
+==============================
+DQN P1 | MCTS 150 P2
+Progress Update [120000/120000]:
+  1- DQN Wins: 2180 | MCTS Wins: 2791
+  2- Avg moves per game: 19.47
+  3- Batch took: 557.5760145187378
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [5000/150000]:
+  1- DQN Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.41
+  3- Batch took: 1017.625895023346
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [10000/150000]:
+  1- DQN Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 13.07
+  3- Batch took: 1062.7053003311157
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [15000/150000]:
+  1- DQN Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.78
+  3- Batch took: 1106.0142006874084
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [20000/150000]:
+  1- DQN Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 14.62
+  3- Batch took: 1152.5050671100616
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [25000/150000]:
+  1- DQN Wins: 14 | MCTS Wins: 4984
+  2- Avg moves per game: 15.61
+  3- Batch took: 1220.0796947479248
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [30000/150000]:
+  1- DQN Wins: 32 | MCTS Wins: 4966
+  2- Avg moves per game: 16.65
+  3- Batch took: 1278.7177846431732
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [35000/150000]:
+  1- DQN Wins: 62 | MCTS Wins: 4931
+  2- Avg moves per game: 18.04
+  3- Batch took: 1345.0360214710236
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [40000/150000]:
+  1- DQN Wins: 110 | MCTS Wins: 4876
+  2- Avg moves per game: 19.62
+  3- Batch took: 1414.9838676452637
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [45000/150000]:
+  1- DQN Wins: 260 | MCTS Wins: 4701
+  2- Avg moves per game: 21.72
+  3- Batch took: 1503.057421207428
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [50000/150000]:
+  1- DQN Wins: 450 | MCTS Wins: 4493
+  2- Avg moves per game: 23.90
+  3- Batch took: 1606.5867590904236
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [55000/150000]:
+  1- DQN Wins: 677 | MCTS Wins: 4227
+  2- Avg moves per game: 25.31
+  3- Batch took: 1664.6106102466583
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [60000/150000]:
+  1- DQN Wins: 675 | MCTS Wins: 4214
+  2- Avg moves per game: 25.08
+  3- Batch took: 1632.8293406963348
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [65000/150000]:
+  1- DQN Wins: 740 | MCTS Wins: 4145
+  2- Avg moves per game: 25.01
+  3- Batch took: 1644.4390077590942
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [70000/150000]:
+  1- DQN Wins: 776 | MCTS Wins: 4118
+  2- Avg moves per game: 25.14
+  3- Batch took: 1658.7186574935913
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [75000/150000]:
+  1- DQN Wins: 779 | MCTS Wins: 4126
+  2- Avg moves per game: 24.92
+  3- Batch took: 1648.635523557663
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [80000/150000]:
+  1- DQN Wins: 802 | MCTS Wins: 4086
+  2- Avg moves per game: 24.85
+  3- Batch took: 1642.753788471222
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [85000/150000]:
+  1- DQN Wins: 684 | MCTS Wins: 4194
+  2- Avg moves per game: 24.24
+  3- Batch took: 1596.7324743270874
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [90000/150000]:
+  1- DQN Wins: 690 | MCTS Wins: 4220
+  2- Avg moves per game: 23.68
+  3- Batch took: 1575.2807903289795
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [95000/150000]:
+  1- DQN Wins: 746 | MCTS Wins: 4177
+  2- Avg moves per game: 23.40
+  3- Batch took: 1569.1090717315674
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [100000/150000]:
+  1- DQN Wins: 749 | MCTS Wins: 4166
+  2- Avg moves per game: 22.89
+  3- Batch took: 1537.852478504181
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [105000/150000]:
+  1- DQN Wins: 779 | MCTS Wins: 4149
+  2- Avg moves per game: 23.43
+  3- Batch took: 1562.4062674045563
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [110000/150000]:
+  1- DQN Wins: 815 | MCTS Wins: 4106
+  2- Avg moves per game: 23.37
+  3- Batch took: 1558.6865105628967
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [115000/150000]:
+  1- DQN Wins: 811 | MCTS Wins: 4099
+  2- Avg moves per game: 22.62
+  3- Batch took: 1528.749341726303
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [120000/150000]:
+  1- DQN Wins: 801 | MCTS Wins: 4116
+  2- Avg moves per game: 22.35
+  3- Batch took: 1514.6537992954254
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [125000/150000]:
+  1- DQN Wins: 863 | MCTS Wins: 4060
+  2- Avg moves per game: 22.06
+  3- Batch took: 1505.2523019313812
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [130000/150000]:
+  1- DQN Wins: 901 | MCTS Wins: 4016
+  2- Avg moves per game: 22.54
+  3- Batch took: 1523.144591808319
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [135000/150000]:
+  1- DQN Wins: 959 | MCTS Wins: 3965
+  2- Avg moves per game: 21.82
+  3- Batch took: 1493.6422550678253
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [140000/150000]:
+  1- DQN Wins: 920 | MCTS Wins: 3997
+  2- Avg moves per game: 21.76
+  3- Batch took: 1489.2378804683685
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [145000/150000]:
+  1- DQN Wins: 985 | MCTS Wins: 3934
+  2- Avg moves per game: 21.58
+  3- Batch took: 1473.249035835266
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [150000/150000]:
+  1- DQN Wins: 893 | MCTS Wins: 4025
+  2- Avg moves per game: 21.38
+  3- Batch took: 1465.8184106349945
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 12.92
+  3- Batch took: 1052.3393387794495
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 5 | MCTS Wins: 4995
+  2- Avg moves per game: 14.34
+  3- Batch took: 1150.7628667354584
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 10 | MCTS Wins: 4989
+  2- Avg moves per game: 15.15
+  3- Batch took: 1234.6615929603577
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 15 | MCTS Wins: 4982
+  2- Avg moves per game: 16.23
+  3- Batch took: 1302.775810956955
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 18 | MCTS Wins: 4981
+  2- Avg moves per game: 16.75
+  3- Batch took: 1315.5835275650024
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 60 | MCTS Wins: 4936
+  2- Avg moves per game: 17.56
+  3- Batch took: 1352.8688895702362
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 161 | MCTS Wins: 4824
+  2- Avg moves per game: 18.79
+  3- Batch took: 1413.2839908599854
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 213 | MCTS Wins: 4777
+  2- Avg moves per game: 19.55
+  3- Batch took: 1539.8720178604126
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 273 | MCTS Wins: 4701
+  2- Avg moves per game: 19.74
+  3- Batch took: 2146.899889945984
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 278 | MCTS Wins: 4698
+  2- Avg moves per game: 19.51
+  3- Batch took: 2003.1068468093872
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 21 | MCTS Wins: 4979
+  2- Avg moves per game: 14.50
+  3- Batch took: 1264.7309787273407
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 38 | MCTS Wins: 4959
+  2- Avg moves per game: 15.47
+  3- Batch took: 1346.5406601428986
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 59 | MCTS Wins: 4939
+  2- Avg moves per game: 16.49
+  3- Batch took: 1413.9563143253326
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 128 | MCTS Wins: 4859
+  2- Avg moves per game: 17.87
+  3- Batch took: 1459.6115837097168
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 232 | MCTS Wins: 4747
+  2- Avg moves per game: 19.41
+  3- Batch took: 1536.1956827640533
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 424 | MCTS Wins: 4535
+  2- Avg moves per game: 21.08
+  3- Batch took: 1605.1842248439789
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 582 | MCTS Wins: 4370
+  2- Avg moves per game: 21.87
+  3- Batch took: 1646.1409678459167
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 625 | MCTS Wins: 4346
+  2- Avg moves per game: 22.23
+  3- Batch took: 1668.8654634952545
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 549 | MCTS Wins: 4401
+  2- Avg moves per game: 22.23
+  3- Batch took: 1668.1022050380707
+==============================
+DQN P1 | MCTS 500 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 617 | MCTS Wins: 4336
+  2- Avg moves per game: 22.23
+  3- Batch took: 1666.5519309043884
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 13.16
+  3- Batch took: 1741.6804547309875
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 4 | MCTS Wins: 4996
+  2- Avg moves per game: 14.71
+  3- Batch took: 1987.4335675239563
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/40000]:
+  1- DQN Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 13.99
+  3- Batch took: 1810.1380519866943
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/40000]:
+  1- DQN Wins: 4 | MCTS Wins: 4995
+  2- Avg moves per game: 15.69
+  3- Batch took: 1981.0907499790192
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [15000/40000]:
+  1- DQN Wins: 7 | MCTS Wins: 4991
+  2- Avg moves per game: 16.40
+  3- Batch took: 2055.8806726932526
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [20000/40000]:
+  1- DQN Wins: 14 | MCTS Wins: 4984
+  2- Avg moves per game: 17.31
+  3- Batch took: 2142.3666779994965
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [25000/40000]:
+  1- DQN Wins: 20 | MCTS Wins: 4975
+  2- Avg moves per game: 17.64
+  3- Batch took: 2188.8414747714996
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [30000/40000]:
+  1- DQN Wins: 42 | MCTS Wins: 4953
+  2- Avg moves per game: 19.02
+  3- Batch took: 2332.0471172332764
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [35000/40000]:
+  1- DQN Wins: 73 | MCTS Wins: 4920
+  2- Avg moves per game: 19.63
+  3- Batch took: 2397.2125504016876
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [40000/40000]:
+  1- DQN Wins: 86 | MCTS Wins: 4906
+  2- Avg moves per game: 19.76
+  3- Batch took: 2394.1351606845856
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 13.34
+  3- Batch took: 1790.1567509174347
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 3 | MCTS Wins: 4995
+  2- Avg moves per game: 14.64
+  3- Batch took: 1937.6395287513733
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 15.21
+  3- Batch took: 1979.238938331604
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 9 | MCTS Wins: 4988
+  2- Avg moves per game: 16.32
+  3- Batch took: 2080.5642244815826
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 23 | MCTS Wins: 4974
+  2- Avg moves per game: 17.34
+  3- Batch took: 2178.5315387248993
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 54 | MCTS Wins: 4941
+  2- Avg moves per game: 18.33
+  3- Batch took: 2280.7127647399902
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/20000]:
+  1- DQN Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 13.34
+  3- Batch took: 1714.2689502239227
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/20000]:
+  1- DQN Wins: 16 | MCTS Wins: 4979
+  2- Avg moves per game: 17.59
+  3- Batch took: 2162.4911391735077
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [15000/20000]:
+  1- DQN Wins: 28 | MCTS Wins: 4968
+  2- Avg moves per game: 18.90
+  3- Batch took: 2271.6340544223785
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [20000/20000]:
+  1- DQN Wins: 34 | MCTS Wins: 4962
+  2- Avg moves per game: 17.57
+  3- Batch took: 2162.1528544425964
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/10000]:
+  1- DQN Wins: 10 | MCTS Wins: 4988
+  2- Avg moves per game: 14.26
+  3- Batch took: 1806.5931432247162
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/10000]:
+  1- DQN Wins: 23 | MCTS Wins: 4975
+  2- Avg moves per game: 16.99
+  3- Batch took: 2032.6715190410614
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [5000/10000]:
+  1- DQN Wins: 41 | MCTS Wins: 4955
+  2- Avg moves per game: 18.37
+  3- Batch took: 2227.7737805843353
+==============================
+DQN P1 | MCTS 750 P2
+Progress Update [10000/10000]:
+  1- DQN Wins: 135 | MCTS Wins: 4850
+  2- Avg moves per game: 21.09
+  3- Batch took: 2456.533840417862
+==============================
+===========================================================================finale search for consolidation=========================================================
+DQN P1 | MCTS 0.02 P2
+Progress Update [5000/35000]:
+  1- DQN Wins: 20 | MCTS Wins: 4978
+  2- Avg moves per game: 15.12
+  3- Batch took: 972.8026466369629
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [10000/35000]:
+  1- DQN Wins: 40 | MCTS Wins: 4958
+  2- Avg moves per game: 15.91
+  3- Batch took: 1015.389867067337
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [15000/35000]:
+  1- DQN Wins: 93 | MCTS Wins: 4904
+  2- Avg moves per game: 16.58
+  3- Batch took: 1050.249686717987
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [20000/35000]:
+  1- DQN Wins: 161 | MCTS Wins: 4830
+  2- Avg moves per game: 17.53
+  3- Batch took: 1098.6293811798096
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [25000/35000]:
+  1- DQN Wins: 235 | MCTS Wins: 4753
+  2- Avg moves per game: 18.60
+  3- Batch took: 1153.8228135108948
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [30000/35000]:
+  1- DQN Wins: 389 | MCTS Wins: 4584
+  2- Avg moves per game: 19.56
+  3- Batch took: 1202.130563735962
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [35000/35000]:
+  1- DQN Wins: 450 | MCTS Wins: 4514
+  2- Avg moves per game: 20.35
+  3- Batch took: 1242.8181660175323
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [5000/30000]:
+  1- DQN Wins: 519 | MCTS Wins: 4439
+  2- Avg moves per game: 20.26
+  3- Batch took: 1234.7328062057495
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [10000/30000]:
+  1- DQN Wins: 673 | MCTS Wins: 4280
+  2- Avg moves per game: 21.05
+  3- Batch took: 1276.482561826706
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [15000/30000]:
+  1- DQN Wins: 923 | MCTS Wins: 4015
+  2- Avg moves per game: 22.34
+  3- Batch took: 1342.3664531707764
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [20000/30000]:
+  1- DQN Wins: 1190 | MCTS Wins: 3727
+  2- Avg moves per game: 23.50
+  3- Batch took: 1401.241418838501
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [25000/30000]:
+  1- DQN Wins: 1388 | MCTS Wins: 3518
+  2- Avg moves per game: 23.93
+  3- Batch took: 1424.5680561065674
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [30000/30000]:
+  1- DQN Wins: 1416 | MCTS Wins: 3481
+  2- Avg moves per game: 23.97
+  3- Batch took: 1445.7740876674652
+==============================
+DQN P1 | MCTS 0.02 P2
+Progress Update [5000/20000]:
+  1- DQN Wins: 707 | MCTS Wins: 4244
+  2- Avg moves per game: 20.50
+  3- Batch took: 1251.1106684207916
+==============================

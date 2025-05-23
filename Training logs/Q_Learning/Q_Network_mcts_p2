@@ -1,0 +1,444 @@
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- Q-TABLE Wins: 15 | MCTS Wins: 4985
+  2- Avg moves per game: 11.91
+  3- Time to complete batch: 180.8328
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- Q-TABLE Wins: 9 | MCTS Wins: 4990
+  2- Avg moves per game: 11.87
+  3- Time to complete batch: 193.4296
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- Q-TABLE Wins: 5 | MCTS Wins: 4995
+  2- Avg moves per game: 11.77
+  3- Time to complete batch: 191.8952
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- Q-TABLE Wins: 15 | MCTS Wins: 4985
+  2- Avg moves per game: 12.03
+  3- Time to complete batch: 196.2662
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- Q-TABLE Wins: 15 | MCTS Wins: 4985
+  2- Avg moves per game: 12.15
+  3- Time to complete batch: 199.3840
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- Q-TABLE Wins: 21 | MCTS Wins: 4979
+  2- Avg moves per game: 12.23
+  3- Time to complete batch: 199.5419
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- Q-TABLE Wins: 24 | MCTS Wins: 4976
+  2- Avg moves per game: 12.77
+  3- Time to complete batch: 207.8435
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- Q-TABLE Wins: 59 | MCTS Wins: 4941
+  2- Avg moves per game: 13.24
+  3- Time to complete batch: 214.9854
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- Q-TABLE Wins: 117 | MCTS Wins: 4883
+  2- Avg moves per game: 14.07
+  3- Time to complete batch: 227.5649
+------------------------------
+MCTS Roll=0.005 (P1) VS Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- Q-TABLE Wins: 94 | MCTS Wins: 4906
+  2- Avg moves per game: 14.46
+  3- Time to complete batch: 237.8507
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 11.11
+  3- Time to complete batch: 321.5434
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 11.21
+  3- Time to complete batch: 355.0589
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 11.61
+  3- Time to complete batch: 366.9948
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 11.81
+  3- Time to complete batch: 370.8316
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.02
+  3- Time to complete batch: 377.0147
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 12.47
+  3- Time to complete batch: 391.8717
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- Q-TABLE Wins: 5 | MCTS Wins: 4995
+  2- Avg moves per game: 13.04
+  3- Time to complete batch: 408.5839
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- Q-TABLE Wins: 11 | MCTS Wins: 4989
+  2- Avg moves per game: 13.71
+  3- Time to complete batch: 426.6677
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- Q-TABLE Wins: 7 | MCTS Wins: 4993
+  2- Avg moves per game: 14.30
+  3- Time to complete batch: 443.6336
+------------------------------
+MCTS Roll=0.01 (P1) VS Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- Q-TABLE Wins: 14 | MCTS Wins: 4986
+  2- Avg moves per game: 14.74
+  3- Time to complete batch: 452.0301
+------------------------------
+first day of trainingMCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [5000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 10.49
+  3- Time to complete batch: 922.9013
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [10000/75000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 10.76
+  3- Time to complete batch: 982.2044
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [15000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 11.08
+  3- Time to complete batch: 1007.9493
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [20000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 11.41
+  3- Time to complete batch: 1036.7530
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [25000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 11.99
+  3- Time to complete batch: 1082.8229
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [30000/75000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.41
+  3- Time to complete batch: 1118.3783
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [35000/75000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 13.21
+  3- Time to complete batch: 1181.9786
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [40000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 13.84
+  3- Time to complete batch: 1233.8735
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [45000/75000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 14.61
+  3- Time to complete batch: 1297.0994
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [50000/75000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 14.98
+  3- Time to complete batch: 1327.4546
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [55000/75000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 15.22
+  3- Time to complete batch: 1347.1423
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [60000/75000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 15.60
+  3- Time to complete batch: 1377.2766
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [65000/75000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 15.27
+  3- Time to complete batch: 1345.3064
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [70000/75000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 15.68
+  3- Time to complete batch: 1382.4891
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [75000/75000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 15.49
+  3- Time to complete batch: 1373.6166
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [5000/100000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 11.35
+  3- Time to complete batch: 1001.3203
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [10000/100000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 11.51
+  3- Time to complete batch: 1077.0316
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [15000/100000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 11.84
+  3- Time to complete batch: 1104.4645
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [20000/100000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 12.19
+  3- Time to complete batch: 1134.4152
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [25000/100000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.54
+  3- Time to complete batch: 1163.5700
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [30000/100000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.77
+  3- Time to complete batch: 1184.4294
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [35000/100000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.17
+  3- Time to complete batch: 1222.8232
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [40000/100000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.63
+  3- Time to complete batch: 1268.9924
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [45000/100000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.94
+  3- Time to complete batch: 1298.4015
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [50000/100000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 14.54
+  3- Time to complete batch: 1323.7654
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [55000/100000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 14.99
+  3- Time to complete batch: 1386.3477
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [60000/100000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 15.57
+  3- Time to complete batch: 1437.4576
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [65000/100000]:
+  1- Q-TABLE Wins: 7 | MCTS Wins: 4993
+  2- Avg moves per game: 16.47
+  3- Time to complete batch: 1507.2837
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [70000/100000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 16.53
+  3- Time to complete batch: 1512.3881
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [75000/100000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 17.05
+  3- Time to complete batch: 1565.8371
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [80000/100000]:
+  1- Q-TABLE Wins: 5 | MCTS Wins: 4995
+  2- Avg moves per game: 17.12
+  3- Time to complete batch: 1551.6763
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [85000/100000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 17.36
+  3- Time to complete batch: 1577.4091
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [90000/100000]:
+  1- Q-TABLE Wins: 8 | MCTS Wins: 4992
+  2- Avg moves per game: 17.07
+  3- Time to complete batch: 1551.8337
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [95000/100000]:
+  1- Q-TABLE Wins: 7 | MCTS Wins: 4993
+  2- Avg moves per game: 17.26
+  3- Time to complete batch: 1569.7019
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [100000/100000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 17.30
+  3- Time to complete batch: 1577.2784
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [5000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 12.84
+  3- Time to complete batch: 1118.9267
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [10000/50000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.30
+  3- Time to complete batch: 1237.8063
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [15000/50000]:
+  1- Q-TABLE Wins: 2 | MCTS Wins: 4998
+  2- Avg moves per game: 13.74
+  3- Time to complete batch: 1277.1657
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [20000/50000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 14.35
+  3- Time to complete batch: 1339.1568
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [25000/50000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 14.83
+  3- Time to complete batch: 1370.3642
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [30000/50000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 15.64
+  3- Time to complete batch: 1437.3257
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [35000/50000]:
+  1- Q-TABLE Wins: 3 | MCTS Wins: 4997
+  2- Avg moves per game: 16.13
+  3- Time to complete batch: 1464.5915
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [40000/50000]:
+  1- Q-TABLE Wins: 4 | MCTS Wins: 4996
+  2- Avg moves per game: 17.05
+  3- Time to complete batch: 1548.5236
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [45000/50000]:
+  1- Q-TABLE Wins: 4 | MCTS Wins: 4996
+  2- Avg moves per game: 18.13
+  3- Time to complete batch: 1637.4433
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [50000/50000]:
+  1- Q-TABLE Wins: 15 | MCTS Wins: 4985
+  2- Avg moves per game: 19.30
+  3- Time to complete batch: 1736.1567
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [5000/35000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 12.66
+  3- Time to complete batch: 1141.1521
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [10000/35000]:
+  1- Q-TABLE Wins: 1 | MCTS Wins: 4999
+  2- Avg moves per game: 13.36
+  3- Time to complete batch: 1265.8242
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [15000/35000]:
+  1- Q-TABLE Wins: 0 | MCTS Wins: 5000
+  2- Avg moves per game: 14.42
+  3- Time to complete batch: 1355.6074
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [20000/35000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 15.52
+  3- Time to complete batch: 1445.3667
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [25000/35000]:
+  1- Q-TABLE Wins: 4 | MCTS Wins: 4996
+  2- Avg moves per game: 17.08
+  3- Time to complete batch: 1574.0158
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [30000/35000]:
+  1- Q-TABLE Wins: 10 | MCTS Wins: 4990
+  2- Avg moves per game: 17.87
+  3- Time to complete batch: 1641.1177
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [35000/35000]:
+  1- Q-TABLE Wins: 6 | MCTS Wins: 4994
+  2- Avg moves per game: 17.65
+  3- Time to complete batch: 1621.0741
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [5000/10000]:
+  1- Q-TABLE Wins: 34 | MCTS Wins: 4964
+  2- Avg moves per game: 19.05
+  3- Time to complete batch: 1666.7742
+------------------------------
+MCTS Roll=0.03 (P1) VS Q-Learning (P2)
+Progress Update [10000/10000]:
+  1- Q-TABLE Wins: 76 | MCTS Wins: 4914
+  2- Avg moves per game: 23.30
+  3- Time to complete batch: 2096.7280
+------------------------------

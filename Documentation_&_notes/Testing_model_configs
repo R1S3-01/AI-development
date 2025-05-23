@@ -1,0 +1,119 @@
+What is this testing being done for?
+This is the testing for the testing in a strange way, it is important that the parameters applied to the models in the larger testing arena are fair and make sense
+This testing is seeking to ensure that is the case, ensuring a fair balance between time and result and that the outcome isnt predictable enough not to need future testing
+
+Whats important to understand is that MCTS can never have the same average time as Minimax without having much worse performance
+This is due to the transposition table storing previous game/moves.
+What im testing for is to ensure that the average time is semi close to each other, one cant have much more or less time taken than the other it would be unfair:
+
+These are the results testing the models low versions with the settings:
+Low-MCTS time = 0.25 | Low-Mini depth = 8
+Player A= Low-MCTS(P1) vs Player B = Low-Mini(P2)
+player A average move time =0.25361072350733027 
+player B average move time =0.04915820964519052 
+Draws | Low-MCTS wins | Low-Mini wins = [0, 14, 36]
+------------------------------
+Player B = Low-Mini(P1) vs Player A = Low-MCTS(P2)
+player A average move time =0.2560769015609628 
+player B average move time =0.06606038103945454 
+Draws | Low-MCTS time wins | Low-Mini wins = [0, 31, 19]
+------------------------------
+However, from this testing, it is likely that minmax would be superior ina a low time based competition, it wins more and in less time...
+================================================================================================================================================
+Player A=High-MCTS(P1) vs Player B=High-Mini (P2)
+player A average move time =1.0084562522913116 
+player B average move time =0.5613451533499277 
+Draws | High-MCTS wins | High-Mini wins = [4, 4, 42] 
+------------------------------
+Player B=High-Mini(P1) vs Player A=High-MCTS (P2)
+player A average move time =1.0151803897325262 
+player B average move time =0.4509629663668181 
+Draws | High-MCTS wins | High-Mini wins = [0, 28, 22] 
+------------------------------
+Once again, we see that with around half the time taken Minimax has more wins, however, it is close and needs more testing and evaluating
+============================================================================================================================================
+Mini Id depth =14 time limit=1 | High-MCTS-Dec time limit =1
+Player A=High-Mini-Id(P1) vs Player B=High-MCTS-Dec (P2)
+player A average move time =0.799077938067033 
+player B average move time =1.005613075286406 
+Draws | High-Mini-Id wins | High-MCTS-Dec wins = [0, 47, 3] 
+------------------------------
+Player B=High-MCTS-Dec(P1) vs Player A=High-Mini-Id (P2)
+player A average move time =0.5222631856506946 
+player B average move time =1.0099298302866833 
+Draws | High-Mini-Id wins | High-MCTS-Dec wins = [2, 48, 0]
+
+What these results show is that High Mini ID is completely dominating High-MCTS-Dec.
+However, it is taking a lot of time, averaging between 0.5 and 0.8 seconds per move. we see the time decrease due to transposition table
+Thus i dont think its necessary to lower and Mini ID parameters as doing so would result in it being too fast and this is ment to be a high model.
+------------------------------
+Player A=High-Mini-Id(P1) vs Player B=High-Mini (P2)
+player A average move time =0.4820690283532092 
+player B average move time =0.24030494906248584 
+Draws | High-Mini-Id wins | High-Mini wins = [1, 47, 2] 
+------------------------------
+Player B=High-Mini(P1) vs Player A=High-Mini-Id (P2)
+player A average move time =0.533181789883801 
+player B average move time =0.08805700694435134 
+Draws | High-Mini-Id wins | High-Mini wins = [44, 1, 5] 
+------------------------------
+Player A=High-Mini(P1) vs Player B=High-MCTS (P2)
+player A average move time =0.2701011913837773 
+player B average move time =1.0232120464901029 
+Draws | High-Mini wins | High-MCTS wins = [0, 20, 30] 
+------------------------------
+Player B=High-MCTS(P1) vs Player A=High-Mini (P2)
+player A average move time =0.38056529573647374 
+player B average move time =1.0310918016636625 
+Draws | High-Mini wins | High-MCTS wins = [0, 45, 5] 
+------------------------------
+Player A=DQN(P1) vs Player B=High-Mini-Id (P2)
+player A average move time =0.0009803188090421716 
+player B average move time =2.4200083479589347 
+Draws | DQN wins | High-Mini-Id wins = [0, 0, 9] 
+------------------------------
+Player B=High-Mini-Id(P1) vs Player A=DQN (P2)
+player A average move time =0.0009703347177216501 
+player B average move time =3.315955167724973 
+Draws | DQN wins | High-Mini-Id wins = [0, 0, 9] 
+------------------------------
+Player A=High-MCTS(P1) vs Player B=Low-Mini (P2)
+player A average move time =1.018811998488028 
+player B average move time =0.08544353054415794 
+Draws | High-MCTS wins | Low-Mini wins = [0, 3, 6] 
+------------------------------
+Player B=Low-Mini(P1) vs Player A=High-MCTS (P2)
+player A average move time =1.009232426366062 
+player B average move time =0.09772606224849306 
+Draws | High-MCTS wins | Low-Mini wins = [0, 5, 4] 
+------------------------------
+Player A=Q-learn(P1) vs Player B=High-Mini (P2)
+player A average move time =0.11918660125347098 
+player B average move time =0.19607983454309327 
+Draws | Q-learn wins | High-Mini wins = [0, 0, 9] 
+------------------------------
+Player B=High-Mini(P1) vs Player A=Q-learn (P2)
+player A average move time =1.2362444842303241e-05 
+player B average move time =0.21693696975708007 
+Draws | Q-learn wins | High-Mini wins = [0, 0, 9] 
+------------------------------
+Player A=Q-learn(P1) vs Player B=Low-Mini (P2)
+player A average move time =0.10643359246077361 
+player B average move time =0.026923674124258536 
+Draws | Q-learn wins | Low-Mini wins = [0, 0, 9] 
+------------------------------
+Player B=Low-Mini(P1) vs Player A=Q-learn (P2)
+player A average move time =1.1112954881456164e-05 
+player B average move time =0.0158634547031287 
+Draws | Q-learn wins | Low-Mini wins = [0, 0, 9] 
+------------------------------
+Player A=Q-learn(P1) vs Player B=Low-Mini (P2)
+player A average move time =0.06382883522245619 
+player B average move time =0.03324362548471194 
+Draws | Q-learn wins | Low-Mini wins = [0, 9, 0] 
+------------------------------
+Player B=Low-Mini(P1) vs Player A=Q-learn (P2)
+player A average move time =1.1106332143147787e-05 
+player B average move time =0.03570771482255724 
+Draws | Q-learn wins | Low-Mini wins = [0, 9, 0] 
+------------------------------

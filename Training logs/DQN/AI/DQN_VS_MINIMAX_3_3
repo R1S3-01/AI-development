@@ -1,0 +1,1016 @@
+DQN P1  | MINI 1 P2
+Progress Update [5000/75000]:
+  1- DQN Wins: 292 | MINI Wins: 4708
+  2- Avg moves per game: 10.62
+  3- Batch took: 153.26579594612122
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [10000/75000]:
+  1- DQN Wins: 366 | MINI Wins: 4634
+  2- Avg moves per game: 11.67
+  3- Batch took: 168.1134614944458
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [15000/75000]:
+  1- DQN Wins: 423 | MINI Wins: 4577
+  2- Avg moves per game: 12.54
+  3- Batch took: 169.2219479084015
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [20000/75000]:
+  1- DQN Wins: 576 | MINI Wins: 4424
+  2- Avg moves per game: 13.46
+  3- Batch took: 169.25074005126953
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [25000/75000]:
+  1- DQN Wins: 768 | MINI Wins: 4232
+  2- Avg moves per game: 14.87
+  3- Batch took: 162.67481136322021
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [30000/75000]:
+  1- DQN Wins: 1057 | MINI Wins: 3938
+  2- Avg moves per game: 16.50
+  3- Batch took: 170.0436463356018
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [35000/75000]:
+  1- DQN Wins: 984 | MINI Wins: 4016
+  2- Avg moves per game: 17.01
+  3- Batch took: 168.1798141002655
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [40000/75000]:
+  1- DQN Wins: 1292 | MINI Wins: 3706
+  2- Avg moves per game: 17.98
+  3- Batch took: 173.04110956192017
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [45000/75000]:
+  1- DQN Wins: 1442 | MINI Wins: 3557
+  2- Avg moves per game: 18.73
+  3- Batch took: 174.3098702430725
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [50000/75000]:
+  1- DQN Wins: 1766 | MINI Wins: 3232
+  2- Avg moves per game: 19.07
+  3- Batch took: 174.85815525054932
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [55000/75000]:
+  1- DQN Wins: 1797 | MINI Wins: 3198
+  2- Avg moves per game: 18.83
+  3- Batch took: 178.8930082321167
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [60000/75000]:
+  1- DQN Wins: 1879 | MINI Wins: 3114
+  2- Avg moves per game: 17.78
+  3- Batch took: 173.43428301811218
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [65000/75000]:
+  1- DQN Wins: 2543 | MINI Wins: 2453
+  2- Avg moves per game: 13.32
+  3- Batch took: 173.4302680492401
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [70000/75000]:
+  1- DQN Wins: 1977 | MINI Wins: 3022
+  2- Avg moves per game: 12.37
+  3- Batch took: 162.77721643447876
+==============================
+DQN P1  | MINI 1 P2
+Progress Update [75000/75000]:
+  1- DQN Wins: 1550 | MINI Wins: 3448
+  2- Avg moves per game: 13.63
+  3- Batch took: 169.09563040733337
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [5000/75000]:
+  1- DQN Wins: 126 | MINI Wins: 4874
+  2- Avg moves per game: 12.06
+  3- Batch took: 195.37072014808655
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [10000/75000]:
+  1- DQN Wins: 302 | MINI Wins: 4698
+  2- Avg moves per game: 12.67
+  3- Batch took: 173.73857402801514
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [15000/75000]:
+  1- DQN Wins: 604 | MINI Wins: 4396
+  2- Avg moves per game: 12.96
+  3- Batch took: 173.26399779319763
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [20000/75000]:
+  1- DQN Wins: 1071 | MINI Wins: 3925
+  2- Avg moves per game: 12.90
+  3- Batch took: 172.674546957016
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [25000/75000]:
+  1- DQN Wins: 1684 | MINI Wins: 3315
+  2- Avg moves per game: 12.34
+  3- Batch took: 170.6633107662201
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [30000/75000]:
+  1- DQN Wins: 2426 | MINI Wins: 2571
+  2- Avg moves per game: 11.70
+  3- Batch took: 168.3411455154419
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [35000/75000]:
+  1- DQN Wins: 3504 | MINI Wins: 1493
+  2- Avg moves per game: 10.05
+  3- Batch took: 163.7176651954651
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [40000/75000]:
+  1- DQN Wins: 4041 | MINI Wins: 956
+  2- Avg moves per game: 9.24
+  3- Batch took: 161.68030071258545
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [45000/75000]:
+  1- DQN Wins: 4007 | MINI Wins: 993
+  2- Avg moves per game: 9.27
+  3- Batch took: 162.05401134490967
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [50000/75000]:
+  1- DQN Wins: 3997 | MINI Wins: 1003
+  2- Avg moves per game: 9.27
+  3- Batch took: 163.15695428848267
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [55000/75000]:
+  1- DQN Wins: 3706 | MINI Wins: 1290
+  2- Avg moves per game: 10.07
+  3- Batch took: 163.90795826911926
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [60000/75000]:
+  1- DQN Wins: 3332 | MINI Wins: 1661
+  2- Avg moves per game: 10.94
+  3- Batch took: 165.2522804737091
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [65000/75000]:
+  1- DQN Wins: 2790 | MINI Wins: 2207
+  2- Avg moves per game: 12.27
+  3- Batch took: 167.23087286949158
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [70000/75000]:
+  1- DQN Wins: 2340 | MINI Wins: 2653
+  2- Avg moves per game: 13.15
+  3- Batch took: 168.32583475112915
+==============================
+DQN P1  | MINI 3 P2
+Progress Update [75000/75000]:
+  1- DQN Wins: 1626 | MINI Wins: 3370
+  2- Avg moves per game: 14.40
+  3- Batch took: 169.73730778694153
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [5000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 12.07
+  3- Batch took: 392.1703007221222
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [10000/120000]:
+  1- DQN Wins: 2 | MINI Wins: 4998
+  2- Avg moves per game: 13.60
+  3- Batch took: 368.3355722427368
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [15000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 14.63
+  3- Batch took: 358.5146675109863
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [20000/120000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 15.43
+  3- Batch took: 333.5822117328644
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [25000/120000]:
+  1- DQN Wins: 9 | MINI Wins: 4986
+  2- Avg moves per game: 16.27
+  3- Batch took: 315.12770557403564
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [30000/120000]:
+  1- DQN Wins: 16 | MINI Wins: 4952
+  2- Avg moves per game: 17.04
+  3- Batch took: 279.6575059890747
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [35000/120000]:
+  1- DQN Wins: 8 | MINI Wins: 4969
+  2- Avg moves per game: 16.83
+  3- Batch took: 230.75307989120483
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [40000/120000]:
+  1- DQN Wins: 5 | MINI Wins: 4967
+  2- Avg moves per game: 16.42
+  3- Batch took: 214.83825612068176
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [45000/120000]:
+  1- DQN Wins: 9 | MINI Wins: 4963
+  2- Avg moves per game: 16.38
+  3- Batch took: 207.8792426586151
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [50000/120000]:
+  1- DQN Wins: 4 | MINI Wins: 4969
+  2- Avg moves per game: 16.74
+  3- Batch took: 206.5348241329193
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [55000/120000]:
+  1- DQN Wins: 11 | MINI Wins: 4953
+  2- Avg moves per game: 17.38
+  3- Batch took: 204.49475264549255
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [60000/120000]:
+  1- DQN Wins: 8 | MINI Wins: 4958
+  2- Avg moves per game: 19.46
+  3- Batch took: 214.20498943328857
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [65000/120000]:
+  1- DQN Wins: 12 | MINI Wins: 4956
+  2- Avg moves per game: 20.14
+  3- Batch took: 213.3264410495758
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [70000/120000]:
+  1- DQN Wins: 10 | MINI Wins: 4955
+  2- Avg moves per game: 19.93
+  3- Batch took: 212.5408318042755
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [75000/120000]:
+  1- DQN Wins: 12 | MINI Wins: 4932
+  2- Avg moves per game: 19.53
+  3- Batch took: 208.724951505661
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [80000/120000]:
+  1- DQN Wins: 16 | MINI Wins: 4941
+  2- Avg moves per game: 18.45
+  3- Batch took: 212.2233521938324
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [85000/120000]:
+  1- DQN Wins: 23 | MINI Wins: 4920
+  2- Avg moves per game: 18.41
+  3- Batch took: 205.36872029304504
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [90000/120000]:
+  1- DQN Wins: 18 | MINI Wins: 4879
+  2- Avg moves per game: 18.60
+  3- Batch took: 212.07565641403198
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [95000/120000]:
+  1- DQN Wins: 26 | MINI Wins: 4919
+  2- Avg moves per game: 18.25
+  3- Batch took: 212.78754830360413
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [100000/120000]:
+  1- DQN Wins: 25 | MINI Wins: 4933
+  2- Avg moves per game: 19.14
+  3- Batch took: 210.44952964782715
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [105000/120000]:
+  1- DQN Wins: 27 | MINI Wins: 4921
+  2- Avg moves per game: 19.50
+  3- Batch took: 217.53379940986633
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [110000/120000]:
+  1- DQN Wins: 18 | MINI Wins: 4934
+  2- Avg moves per game: 19.17
+  3- Batch took: 210.4475440979004
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [115000/120000]:
+  1- DQN Wins: 16 | MINI Wins: 4918
+  2- Avg moves per game: 19.66
+  3- Batch took: 211.96447348594666
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [120000/120000]:
+  1- DQN Wins: 19 | MINI Wins: 4895
+  2- Avg moves per game: 18.07
+  3- Batch took: 209.4523730278015
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [5000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 4999
+  2- Avg moves per game: 12.04
+  3- Batch took: 255.16121578216553
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [10000/120000]:
+  1- DQN Wins: 2 | MINI Wins: 4998
+  2- Avg moves per game: 13.10
+  3- Batch took: 270.19054412841797
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [15000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 14.23
+  3- Batch took: 280.14588618278503
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [20000/120000]:
+  1- DQN Wins: 3 | MINI Wins: 4997
+  2- Avg moves per game: 14.83
+  3- Batch took: 269.0964527130127
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [25000/120000]:
+  1- DQN Wins: 4 | MINI Wins: 4994
+  2- Avg moves per game: 15.15
+  3- Batch took: 260.14756178855896
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [30000/120000]:
+  1- DQN Wins: 6 | MINI Wins: 4988
+  2- Avg moves per game: 15.43
+  3- Batch took: 234.9495861530304
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [35000/120000]:
+  1- DQN Wins: 2 | MINI Wins: 4993
+  2- Avg moves per game: 16.88
+  3- Batch took: 218.07178020477295
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [40000/120000]:
+  1- DQN Wins: 2 | MINI Wins: 4997
+  2- Avg moves per game: 16.40
+  3- Batch took: 209.06109285354614
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [45000/120000]:
+  1- DQN Wins: 7 | MINI Wins: 4985
+  2- Avg moves per game: 17.62
+  3- Batch took: 216.7000572681427
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [50000/120000]:
+  1- DQN Wins: 18 | MINI Wins: 4926
+  2- Avg moves per game: 19.19
+  3- Batch took: 221.42738318443298
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [55000/120000]:
+  1- DQN Wins: 12 | MINI Wins: 4970
+  2- Avg moves per game: 17.89
+  3- Batch took: 213.9058485031128
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [60000/120000]:
+  1- DQN Wins: 10 | MINI Wins: 4980
+  2- Avg moves per game: 18.10
+  3- Batch took: 215.72151732444763
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [65000/120000]:
+  1- DQN Wins: 2 | MINI Wins: 4997
+  2- Avg moves per game: 17.29
+  3- Batch took: 215.87771010398865
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [70000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 19.46
+  3- Batch took: 217.1155562400818
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [75000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 19.13
+  3- Batch took: 211.0788288116455
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [80000/120000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 19.12
+  3- Batch took: 209.21252584457397
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [85000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 18.41
+  3- Batch took: 210.13752627372742
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [90000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 4999
+  2- Avg moves per game: 18.30
+  3- Batch took: 206.07273983955383
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [95000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 4998
+  2- Avg moves per game: 19.34
+  3- Batch took: 209.9045877456665
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [100000/120000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 19.91
+  3- Batch took: 209.40795755386353
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [105000/120000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 20.36
+  3- Batch took: 209.1008336544037
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [110000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 4999
+  2- Avg moves per game: 20.79
+  3- Batch took: 210.45080828666687
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [115000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 4999
+  2- Avg moves per game: 20.15
+  3- Batch took: 211.94296836853027
+==============================
+DQN P1  | MINI 6 P2
+Progress Update [120000/120000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 20.51
+  3- Batch took: 207.84351015090942
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [5000/150000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 12.52
+  3- Batch took: 1085.0052268505096
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/150000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 13.57
+  3- Batch took: 814.4270620346069
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/150000]:
+  1- DQN Wins: 3 | MINI Wins: 4995
+  2- Avg moves per game: 14.98
+  3- Batch took: 808.2775557041168
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/150000]:
+  1- DQN Wins: 3 | MINI Wins: 4994
+  2- Avg moves per game: 15.87
+  3- Batch took: 755.183305978775
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [25000/150000]:
+  1- DQN Wins: 6 | MINI Wins: 4988
+  2- Avg moves per game: 16.98
+  3- Batch took: 642.4198958873749
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [30000/150000]:
+  1- DQN Wins: 11 | MINI Wins: 4966
+  2- Avg moves per game: 17.74
+  3- Batch took: 484.22800517082214
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [35000/150000]:
+  1- DQN Wins: 34 | MINI Wins: 4885
+  2- Avg moves per game: 19.18
+  3- Batch took: 376.5682725906372
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [40000/150000]:
+  1- DQN Wins: 33 | MINI Wins: 4909
+  2- Avg moves per game: 18.63
+  3- Batch took: 295.47801446914673
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [45000/150000]:
+  1- DQN Wins: 16 | MINI Wins: 4949
+  2- Avg moves per game: 18.22
+  3- Batch took: 288.5555679798126
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [50000/150000]:
+  1- DQN Wins: 44 | MINI Wins: 4929
+  2- Avg moves per game: 18.63
+  3- Batch took: 301.25607991218567
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [55000/150000]:
+  1- DQN Wins: 23 | MINI Wins: 4943
+  2- Avg moves per game: 19.39
+  3- Batch took: 281.9419038295746
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [60000/150000]:
+  1- DQN Wins: 23 | MINI Wins: 4939
+  2- Avg moves per game: 19.27
+  3- Batch took: 285.70852732658386
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [65000/150000]:
+  1- DQN Wins: 43 | MINI Wins: 4922
+  2- Avg moves per game: 18.83
+  3- Batch took: 269.80885577201843
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [70000/150000]:
+  1- DQN Wins: 36 | MINI Wins: 4931
+  2- Avg moves per game: 18.80
+  3- Batch took: 279.40851974487305
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [75000/150000]:
+  1- DQN Wins: 29 | MINI Wins: 4963
+  2- Avg moves per game: 17.94
+  3- Batch took: 280.6924066543579
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [80000/150000]:
+  1- DQN Wins: 26 | MINI Wins: 4957
+  2- Avg moves per game: 18.48
+  3- Batch took: 286.82247281074524
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [85000/150000]:
+  1- DQN Wins: 12 | MINI Wins: 4981
+  2- Avg moves per game: 17.92
+  3- Batch took: 280.2633361816406
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [90000/150000]:
+  1- DQN Wins: 9 | MINI Wins: 4977
+  2- Avg moves per game: 17.76
+  3- Batch took: 277.3164494037628
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [95000/150000]:
+  1- DQN Wins: 8 | MINI Wins: 4980
+  2- Avg moves per game: 17.83
+  3- Batch took: 284.6106722354889
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [100000/150000]:
+  1- DQN Wins: 15 | MINI Wins: 4972
+  2- Avg moves per game: 18.67
+  3- Batch took: 277.02844643592834
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [105000/150000]:
+  1- DQN Wins: 15 | MINI Wins: 4963
+  2- Avg moves per game: 18.61
+  3- Batch took: 278.5501551628113
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [110000/150000]:
+  1- DQN Wins: 4 | MINI Wins: 4981
+  2- Avg moves per game: 18.09
+  3- Batch took: 268.51118659973145
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [115000/150000]:
+  1- DQN Wins: 8 | MINI Wins: 4984
+  2- Avg moves per game: 17.78
+  3- Batch took: 273.85323214530945
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [120000/150000]:
+  1- DQN Wins: 12 | MINI Wins: 4972
+  2- Avg moves per game: 17.96
+  3- Batch took: 277.20657992362976
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [125000/150000]:
+  1- DQN Wins: 12 | MINI Wins: 4977
+  2- Avg moves per game: 18.32
+  3- Batch took: 276.6585793495178
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [130000/150000]:
+  1- DQN Wins: 5 | MINI Wins: 4968
+  2- Avg moves per game: 18.52
+  3- Batch took: 277.8354995250702
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [135000/150000]:
+  1- DQN Wins: 12 | MINI Wins: 4967
+  2- Avg moves per game: 18.57
+  3- Batch took: 267.31551218032837
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [140000/150000]:
+  1- DQN Wins: 13 | MINI Wins: 4914
+  2- Avg moves per game: 18.90
+  3- Batch took: 270.0814514160156
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [145000/150000]:
+  1- DQN Wins: 40 | MINI Wins: 4878
+  2- Avg moves per game: 20.83
+  3- Batch took: 280.50714349746704
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [150000/150000]:
+  1- DQN Wins: 30 | MINI Wins: 4929
+  2- Avg moves per game: 21.74
+  3- Batch took: 275.01388335227966
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 14.14
+  3- Batch took: 1391.991816520691
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 5 | MINI Wins: 4995
+  2- Avg moves per game: 14.87
+  3- Batch took: 922.677339553833
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4996
+  2- Avg moves per game: 15.70
+  3- Batch took: 784.2911765575409
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 2 | MINI Wins: 4996
+  2- Avg moves per game: 16.52
+  3- Batch took: 694.5119972229004
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4992
+  2- Avg moves per game: 16.99
+  3- Batch took: 581.9151613712311
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 13 | MINI Wins: 4970
+  2- Avg moves per game: 17.91
+  3- Batch took: 498.73476552963257
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 17 | MINI Wins: 4957
+  2- Avg moves per game: 19.84
+  3- Batch took: 505.511435508728
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 14 | MINI Wins: 4958
+  2- Avg moves per game: 19.22
+  3- Batch took: 464.54881858825684
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 23 | MINI Wins: 4945
+  2- Avg moves per game: 18.82
+  3- Batch took: 436.4015896320343
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 22 | MINI Wins: 4961
+  2- Avg moves per game: 17.83
+  3- Batch took: 411.872305393219
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 5 | MINI Wins: 4990
+  2- Avg moves per game: 15.01
+  3- Batch took: 802.4109442234039
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 9 | MINI Wins: 4989
+  2- Avg moves per game: 16.06
+  3- Batch took: 818.3483135700226
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 34 | MINI Wins: 4945
+  2- Avg moves per game: 17.21
+  3- Batch took: 762.0940008163452
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 56 | MINI Wins: 4897
+  2- Avg moves per game: 18.58
+  3- Batch took: 660.3752288818359
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 105 | MINI Wins: 4789
+  2- Avg moves per game: 20.77
+  3- Batch took: 591.7609324455261
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 260 | MINI Wins: 4600
+  2- Avg moves per game: 23.24
+  3- Batch took: 485.6503355503082
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 406 | MINI Wins: 4437
+  2- Avg moves per game: 24.15
+  3- Batch took: 462.4840986728668
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 186 | MINI Wins: 4623
+  2- Avg moves per game: 24.12
+  3- Batch took: 464.38557410240173
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 104 | MINI Wins: 4793
+  2- Avg moves per game: 23.01
+  3- Batch took: 479.57254004478455
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 112 | MINI Wins: 4777
+  2- Avg moves per game: 22.96
+  3- Batch took: 486.43741965293884
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 0 | MINI Wins: 5000
+  2- Avg moves per game: 14.50
+  3- Batch took: 3461.0368146896362
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4999
+  2- Avg moves per game: 14.80
+  3- Batch took: 1810.3290202617645
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4998
+  2- Avg moves per game: 15.38
+  3- Batch took: 1584.3739762306213
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 10 | MINI Wins: 4987
+  2- Avg moves per game: 15.85
+  3- Batch took: 1190.0282447338104
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 20 | MINI Wins: 4977
+  2- Avg moves per game: 16.65
+  3- Batch took: 843.838517665863
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 24 | MINI Wins: 4970
+  2- Avg moves per game: 17.37
+  3- Batch took: 627.1779899597168
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 44 | MINI Wins: 4948
+  2- Avg moves per game: 19.22
+  3- Batch took: 528.4880390167236
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 102 | MINI Wins: 4851
+  2- Avg moves per game: 19.96
+  3- Batch took: 550.8061764240265
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 187 | MINI Wins: 4774
+  2- Avg moves per game: 20.14
+  3- Batch took: 543.4769856929779
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 179 | MINI Wins: 4796
+  2- Avg moves per game: 20.25
+  3- Batch took: 501.34719800949097
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [5000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4999
+  2- Avg moves per game: 13.67
+  3- Batch took: 3195.4578080177307
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [10000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4999
+  2- Avg moves per game: 15.03
+  3- Batch took: 2036.2155272960663
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [15000/50000]:
+  1- DQN Wins: 2 | MINI Wins: 4997
+  2- Avg moves per game: 15.75
+  3- Batch took: 1476.6831986904144
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [20000/50000]:
+  1- DQN Wins: 4 | MINI Wins: 4996
+  2- Avg moves per game: 16.56
+  3- Batch took: 1157.6310834884644
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [25000/50000]:
+  1- DQN Wins: 1 | MINI Wins: 4999
+  2- Avg moves per game: 17.41
+  3- Batch took: 958.7798504829407
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [30000/50000]:
+  1- DQN Wins: 3 | MINI Wins: 4995
+  2- Avg moves per game: 17.58
+  3- Batch took: 657.5828521251678
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [35000/50000]:
+  1- DQN Wins: 10 | MINI Wins: 4989
+  2- Avg moves per game: 17.93
+  3- Batch took: 533.8860716819763
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [40000/50000]:
+  1- DQN Wins: 14 | MINI Wins: 4981
+  2- Avg moves per game: 17.67
+  3- Batch took: 523.7989888191223
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [45000/50000]:
+  1- DQN Wins: 5 | MINI Wins: 4991
+  2- Avg moves per game: 17.00
+  3- Batch took: 499.682368516922
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [50000/50000]:
+  1- DQN Wins: 17 | MINI Wins: 4981
+  2- Avg moves per game: 17.14
+  3- Batch took: 532.9128429889679
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [5000/10000]:
+  1- DQN Wins: 1 | MINI Wins: 4995
+  2- Avg moves per game: 19.25
+  3- Batch took: 2244.2514321804047
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [10000/10000]:
+  1- DQN Wins: 5 | MINI Wins: 4991
+  2- Avg moves per game: 17.78
+  3- Batch took: 1004.5838751792908
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [5000/10000]:
+  1- DQN Wins: 4 | MINI Wins: 4992
+  2- Avg moves per game: 18.02
+  3- Batch took: 1625.02405834198
+==============================
+DQN P1  | MINI 9 P2
+Progress Update [10000/10000]:
+  1- DQN Wins: 8 | MINI Wins: 4988
+  2- Avg moves per game: 19.36
+  3- Batch took: 612.9861164093018
+==============================
+===========================================================================finale search for consolidation=========================================================
+
+DQN P1  | MINI 8 P2
+Progress Update [5000/35000]:
+  1- DQN Wins: 0 | MINI Wins: 4999
+  2- Avg moves per game: 14.84
+  3- Batch took: 1918.3323442935944
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/35000]:
+  1- DQN Wins: 2 | MINI Wins: 4998
+  2- Avg moves per game: 15.56
+  3- Batch took: 1210.3852996826172
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/35000]:
+  1- DQN Wins: 3 | MINI Wins: 4996
+  2- Avg moves per game: 16.07
+  3- Batch took: 1002.4359939098358
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/35000]:
+  1- DQN Wins: 1 | MINI Wins: 4993
+  2- Avg moves per game: 16.79
+  3- Batch took: 851.4215152263641
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [25000/35000]:
+  1- DQN Wins: 15 | MINI Wins: 4968
+  2- Avg moves per game: 17.57
+  3- Batch took: 706.4257926940918
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [30000/35000]:
+  1- DQN Wins: 77 | MINI Wins: 4896
+  2- Avg moves per game: 18.67
+  3- Batch took: 490.0069694519043
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [35000/35000]:
+  1- DQN Wins: 92 | MINI Wins: 4879
+  2- Avg moves per game: 19.38
+  3- Batch took: 467.5522530078888
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [5000/30000]:
+  1- DQN Wins: 158 | MINI Wins: 4785
+  2- Avg moves per game: 20.57
+  3- Batch took: 584.9510776996613
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/30000]:
+  1- DQN Wins: 229 | MINI Wins: 4697
+  2- Avg moves per game: 21.91
+  3- Batch took: 454.3559889793396
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/30000]:
+  1- DQN Wins: 596 | MINI Wins: 4288
+  2- Avg moves per game: 23.87
+  3- Batch took: 402.30124735832214
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/30000]:
+  1- DQN Wins: 1617 | MINI Wins: 3272
+  2- Avg moves per game: 26.77
+  3- Batch took: 355.5710258483887
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [25000/30000]:
+  1- DQN Wins: 2730 | MINI Wins: 2128
+  2- Avg moves per game: 27.96
+  3- Batch took: 335.0044147968292
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [30000/30000]:
+  1- DQN Wins: 2303 | MINI Wins: 2473
+  2- Avg moves per game: 28.37
+  3- Batch took: 352.13190937042236
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [5000/20000]:
+  1- DQN Wins: 48 | MINI Wins: 4895
+  2- Avg moves per game: 19.31
+  3- Batch took: 1157.244413137436
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [10000/20000]:
+  1- DQN Wins: 71 | MINI Wins: 4824
+  2- Avg moves per game: 20.58
+  3- Batch took: 625.459947347641
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [15000/20000]:
+  1- DQN Wins: 73 | MINI Wins: 4844
+  2- Avg moves per game: 19.70
+  3- Batch took: 452.4980435371399
+==============================
+DQN P1  | MINI 8 P2
+Progress Update [20000/20000]:
+  1- DQN Wins: 54 | MINI Wins: 4871
+  2- Avg moves per game: 20.13
+  3- Batch took: 351.0143587589264
+==============================

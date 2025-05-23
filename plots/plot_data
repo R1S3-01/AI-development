@@ -1,0 +1,1718 @@
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.0| opponents avg move time = 0.0001484717864657073
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.5082813795560446
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.06840960664569207
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.5021398962050019
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.748080111098016e-06| opponents avg move time = 3.6087707176908745
+------------------------------
+Current Player = Rand| Opponent = Q-lean
+Draws= 0| Wins = 16 | Losses = 84 
+Player avg move time = 0.0| opponents avg move time = 1.5627931464802135e-05
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 0| Wins = 5 | Losses = 95 
+Player avg move time = 1.3939849513486899e-06| opponents avg move time = 0.0009745535969265479
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.909168621965947e-06| opponents avg move time = 3.623726578539672
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.5043166653095232
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.5017575010523068
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.949176453707511e-06| opponents avg move time = 6.06953154660457
+------------------------------
+Current Player = Heuristic| Opponent = Rand
+Draws= 0| Wins = 97 | Losses = 3 
+Player avg move time = 5.1422864811901206e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Heuristic| Opponent = Low-MCTS
+Draws= 1| Wins = 4 | Losses = 95 
+Player avg move time = 4.09437120977929e-05| opponents avg move time = 0.8174815272228627
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.003394556442896525
+------------------------------
+Current Player = Heuristic| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 7.142339433942522e-06| opponents avg move time = 0.5358166874727396
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.007188188810778e-06| opponents avg move time = 0.25348819679765744
+------------------------------
+Current Player = Heuristic| Opponent = Q-lean
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.9989013671875e-06| opponents avg move time = 7.2713331742720174e-06
+------------------------------
+Current Player = Heuristic| Opponent = DQN
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 6.3995361328125e-06| opponents avg move time = 0.0005492046356201172
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.8176165494051847e-06| opponents avg move time = 0.036493335167566934
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS
+Draws= 0| Wins = 2 | Losses = 98 
+Player avg move time = 2.222559810463899e-05| opponents avg move time = 2.568167842475544
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.2102773634053894e-06| opponents avg move time = 2.5060184927291522
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 7.696151733398438e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5070577654089564| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 97 | Losses = 3 
+Player avg move time = 0.568531575519873| opponents avg move time = 9.755390446360518e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini
+Draws= 3| Wins = 33 | Losses = 64 
+Player avg move time = 1.1523570825573097| opponents avg move time = 0.24377013211350723
+------------------------------
+Current Player = Low-MCTS| Opponent = low-MCTS-Dec
+Draws= 2| Wins = 57 | Losses = 41 
+Player avg move time = 0.5088487417609603| opponents avg move time = 0.5025952725549403
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini-Id
+Draws= 0| Wins = 34 | Losses = 66 
+Player avg move time = 1.4202541343522657| opponents avg move time = 2.1489709602854643
+------------------------------
+Current Player = Low-MCTS| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5086699740234512| opponents avg move time = 8.450763326295664e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = DQN
+Draws= 2| Wins = 97 | Losses = 1 
+Player avg move time = 0.5063451929477298| opponents avg move time = 0.0005748341210891738
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini
+Draws= 1| Wins = 46 | Losses = 53 
+Player avg move time = 1.2499967639915754| opponents avg move time = 1.817467770106356
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS
+Draws= 1| Wins = 45 | Losses = 54 
+Player avg move time = 0.5036647046621554| opponents avg move time = 2.506723893332103
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS-Dec
+Draws= 6| Wins = 24 | Losses = 70 
+Player avg move time = 0.5059763198291068| opponents avg move time = 2.5017405548351723
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini-Id
+Draws= 2| Wins = 38 | Losses = 60 
+Player avg move time = 1.581714882616137| opponents avg move time = 2.3829525456142924
+------------------------------
+Current Player = Low-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.022636562697449875| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0| opponents avg move time = 4.557696255770597e-06
+------------------------------
+Current Player = Low-Mini| Opponent = Low-MCTS
+Draws= 3| Wins = 50 | Losses = 47 
+Player avg move time = 0.2117266636894838| opponents avg move time = 1.2778009856803507
+------------------------------
+Current Player = Low-Mini| Opponent = low-MCTS-Dec
+Draws= 38| Wins = 50 | Losses = 12 
+Player avg move time = 0.06324098477459918| opponents avg move time = 0.7875917942234965
+------------------------------
+Current Player = Low-Mini| Opponent = Low-Mini-Id
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.0014117195876741846| opponents avg move time = 0.16087801742293853
+------------------------------
+Current Player = Low-Mini| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0008557174516760785| opponents avg move time = 1.0909167203036222e-05
+------------------------------
+Current Player = Low-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.00011055787404378255| opponents avg move time = 0.0005559421988094555
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.00011545419692993164| opponents avg move time = 0.01013628044128418
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS
+Draws= 2| Wins = 37 | Losses = 61 
+Player avg move time = 0.20465509489649034| opponents avg move time = 2.9049710461826876
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 8 | Losses = 89 
+Player avg move time = 0.09260162277716256| opponents avg move time = 2.693496562048202
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 7.142339433942522e-07| opponents avg move time = 1.1033847414214035e-05
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5026445992277693| opponents avg move time = 0.0
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5396058396769443| opponents avg move time = 3.630799087552107e-06
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-MCTS
+Draws= 0| Wins = 35 | Losses = 65 
+Player avg move time = 0.5020879899124497| opponents avg move time = 0.5090389283249627
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini
+Draws= 46| Wins = 9 | Losses = 45 
+Player avg move time = 0.6345233956488168| opponents avg move time = 0.04530096739439425
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 5| Wins = 47 | Losses = 48 
+Player avg move time = 0.8334680997307307| opponents avg move time = 0.6010693600344776
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5038986723443979| opponents avg move time = 1.5444525221758978e-06
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.5021267155806224| opponents avg move time = 0.0003833991830999201
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini
+Draws= 2| Wins = 50 | Losses = 48 
+Player avg move time = 0.754747262860255| opponents avg move time = 0.25523347111158473
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS
+Draws= 0| Wins = 33 | Losses = 67 
+Player avg move time = 0.5033299572136487| opponents avg move time = 2.5044503272984566
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 24 | Losses = 73 
+Player avg move time = 0.5025220124298716| opponents avg move time = 2.503165693572073
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini-Id
+Draws= 4| Wins = 52 | Losses = 44 
+Player avg move time = 0.6090643414945314| opponents avg move time = 0.16543446249863483
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 3.5034233152373764| opponents avg move time = 1.8021007915874858e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.2306800255408654e-05| opponents avg move time = 1.6669432322184244e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-MCTS
+Draws= 1| Wins = 56 | Losses = 43 
+Player avg move time = 1.1093995036424622| opponents avg move time = 1.602066642085448
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-Mini
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 9.654637040763066e-06| opponents avg move time = 1.428297587803432e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = low-MCTS-Dec
+Draws= 3| Wins = 38 | Losses = 59 
+Player avg move time = 0.09715488121383398| opponents avg move time = 0.6196313467800649
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.37751355901101| opponents avg move time = 4.326369645616163e-05
+------------------------------
+Current Player = Low-Mini-Id| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.008776715517044068| opponents avg move time = 0.0006177671332108347
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini
+Draws= 1| Wins = 5 | Losses = 94 
+Player avg move time = 0.1753280468549734| opponents avg move time = 0.047194355324216605
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS
+Draws= 1| Wins = 34 | Losses = 65 
+Player avg move time = 1.259583151509576| opponents avg move time = 3.6201746463775635
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 56 | Losses = 41 
+Player avg move time = 1.1041163364891264| opponents avg move time = 3.3491038033484792
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini-Id
+Draws= 0| Wins = 53 | Losses = 47 
+Player avg move time = 0.04509282447079947| opponents avg move time = 0.08557651749807386
+------------------------------
+Current Player = Q-lean| Opponent = Rand
+Draws= 0| Wins = 86 | Losses = 14 
+Player avg move time = 0.00011390885390804312| opponents avg move time = 0.0
+------------------------------
+Current Player = Q-lean| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 5.452849648215554e-06| opponents avg move time = 1.9965171813964845e-06
+------------------------------
+Current Player = Q-lean| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 2.589467841546654e-05| opponents avg move time = 0.5161488635884343
+------------------------------
+Current Player = Q-lean| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.1821009896018288e-05| opponents avg move time = 1.7392117044200067e-06
+------------------------------
+Current Player = Q-lean| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.815968368992661e-06| opponents avg move time = 0.5026507675647736
+------------------------------
+Current Player = Q-lean| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.4147531418573289e-05| opponents avg move time = 1.2731335379860618e-05
+------------------------------
+Current Player = Q-lean| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.2867791312081472e-05| opponents avg move time = 0.000657496085533729
+------------------------------
+Current Player = Q-lean| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.0665575663248699e-05| opponents avg move time = 0.031557926535606386
+------------------------------
+Current Player = Q-lean| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.8517527960043037e-05| opponents avg move time = 2.5100898766921738
+------------------------------
+Current Player = Q-lean| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.1518476847891289e-05| opponents avg move time = 2.503113827415716
+------------------------------
+Current Player = Q-lean| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.3335545857747395e-05| opponents avg move time = 9.088082747025923e-06
+------------------------------
+Current Player = DQN| Opponent = Rand
+Draws= 1| Wins = 96 | Losses = 3 
+Player avg move time = 0.0005243768108620328| opponents avg move time = 2.649446196903456e-06
+------------------------------
+Current Player = DQN| Opponent = Heuristic
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0005580589294433594| opponents avg move time = 3.999137878417968e-06
+------------------------------
+Current Player = DQN| Opponent = Low-MCTS
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.0003110266409779047| opponents avg move time = 0.5065012857101966
+------------------------------
+Current Player = DQN| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0005382218080408433| opponents avg move time = 3.330442640516493e-06
+------------------------------
+Current Player = DQN| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.00039961424740878016| opponents avg move time = 0.5026033862431845
+------------------------------
+Current Player = DQN| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0005280645270096629| opponents avg move time = 1.9997835159301757e-05
+------------------------------
+Current Player = DQN| Opponent = Q-lean
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0005300518182607798| opponents avg move time = 1.2857573372977121e-05
+------------------------------
+Current Player = DQN| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0006389642897106353| opponents avg move time = 0.05216389504345981
+------------------------------
+Current Player = DQN| Opponent = High-MCTS
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.0009793713437989103| opponents avg move time = 2.5121625048048952
+------------------------------
+Current Player = DQN| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0009538397722671721| opponents avg move time = 2.501534037815789
+------------------------------
+Current Player = DQN| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0005359197917737459| opponents avg move time = 1.8004179000854492e-05
+------------------------------
+Current Player = High-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.7778345885070852| opponents avg move time = 6.4990658690963965e-06
+------------------------------
+Current Player = High-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.6657511393229166e-06| opponents avg move time = 0.0
+------------------------------
+Current Player = High-Mini| Opponent = Low-MCTS
+Draws= 0| Wins = 53 | Losses = 47 
+Player avg move time = 1.2931010016688593| opponents avg move time = 2.1464060599119024
+------------------------------
+Current Player = High-Mini| Opponent = Low-Mini
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 7.984161376953126e-07| opponents avg move time = 2.499222755432129e-06
+------------------------------
+Current Player = High-Mini| Opponent = low-MCTS-Dec
+Draws= 1| Wins = 56 | Losses = 43 
+Player avg move time = 0.6573791169184152| opponents avg move time = 1.9188134920775002
+------------------------------
+Current Player = High-Mini| Opponent = Low-Mini-Id
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 2.35291088328642e-06| opponents avg move time = 3.738836808638139e-05
+------------------------------
+Current Player = High-Mini| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 2.5027990341186525e-06| opponents avg move time = 1.468499501546224e-05
+------------------------------
+Current Player = High-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 2.728158777410334e-06| opponents avg move time = 0.0006433060055687314
+------------------------------
+Current Player = High-Mini| Opponent = High-MCTS
+Draws= 2| Wins = 42 | Losses = 56 
+Player avg move time = 5.5608852650355365| opponents avg move time = 9.068233194846462
+------------------------------
+====================================================================================================OLD had to restart==================================================================
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.0| opponents avg move time = 0.00014727907020504734
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.257907564262692
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.06795309665983756
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.25167907468530515
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.7675523488535048e-06| opponents avg move time = 2.1152168662125397
+------------------------------
+Current Player = Rand| Opponent = Q-lean
+Draws= 0| Wins = 10 | Losses = 90 
+Player avg move time = 0.0| opponents avg move time = 1.0888646957848344e-05
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 1| Wins = 6 | Losses = 93 
+Player avg move time = 3.7316659196692318e-06| opponents avg move time = 0.0005969835339852099
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.83849336181172e-06| opponents avg move time = 4.25134514801974
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.0048449000796755
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.002088851812813
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.6671048118954614e-06| opponents avg move time = 6.5827920024827025
+------------------------------
+Current Player = Heuristic| Opponent = Rand
+Draws= 0| Wins = 96 | Losses = 4 
+Player avg move time = 2.826405936711161e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Heuristic| Opponent = Low-MCTS
+Draws= 0| Wins = 2 | Losses = 98 
+Player avg move time = 3.53790939429182e-05| opponents avg move time = 0.5496069466889795
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.003057448182787214
+------------------------------
+Current Player = Heuristic| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.3501809132077905e-06| opponents avg move time = 0.30544476267163767
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.09707443974234842
+------------------------------
+Current Player = Heuristic| Opponent = Q-lean
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 9.208592501553622e-06
+------------------------------
+Current Player = Heuristic| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 7.996718088785807e-06| opponents avg move time = 0.0005573129653930664
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.028502511244553785
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS
+Draws= 0| Wins = 14 | Losses = 86 
+Player avg move time = 2.4868327485033747e-05| opponents avg move time = 2.0843580012694933
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 9 | Losses = 91 
+Player avg move time = 3.72854078778569e-05| opponents avg move time = 2.08962498094455
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.33746979640080377
+------------------------------
+Current Player = Low-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2574080406442365| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 98 | Losses = 2 
+Player avg move time = 0.4357647114658948| opponents avg move time = 2.0153970526368827e-05
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini
+Draws= 9| Wins = 45 | Losses = 46 
+Player avg move time = 0.8246510041437187| opponents avg move time = 0.20626940487553833
+------------------------------
+Current Player = Low-MCTS| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 54 | Losses = 46 
+Player avg move time = 0.2591946136322331| opponents avg move time = 0.25268323515292906
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini-Id
+Draws= 1| Wins = 21 | Losses = 78 
+Player avg move time = 0.9654789974904984| opponents avg move time = 1.6390690974425197
+------------------------------
+Current Player = Low-MCTS| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2661606155235935| opponents avg move time = 1.0680838892865397e-05
+------------------------------
+Current Player = Low-MCTS| Opponent = DQN
+Draws= 1| Wins = 95 | Losses = 4 
+Player avg move time = 0.2579483104744703| opponents avg move time = 0.0007475061188958367
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini
+Draws= 0| Wins = 16 | Losses = 84 
+Player avg move time = 0.9789034465381078| opponents avg move time = 1.805631327994864
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS
+Draws= 5| Wins = 18 | Losses = 77 
+Player avg move time = 0.25856918380374| opponents avg move time = 2.0067937871019446
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS-Dec
+Draws= 4| Wins = 41 | Losses = 55 
+Player avg move time = 0.259423992807502| opponents avg move time = 2.0025550499755034
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini-Id
+Draws= 3| Wins = 12 | Losses = 85 
+Player avg move time = 1.2487397154251576| opponents avg move time = 3.5171277933040277
+------------------------------
+Current Player = Low-Mini| Opponent = Rand
+Draws= 0| Wins = 99 | Losses = 1 
+Player avg move time = 0.014743224564973298| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0| opponents avg move time = 1.5376164362980768e-06
+------------------------------
+Current Player = Low-Mini| Opponent = Low-MCTS
+Draws= 3| Wins = 39 | Losses = 58 
+Player avg move time = 0.18877890554781493| opponents avg move time = 1.0073511423108557
+------------------------------
+Current Player = Low-Mini| Opponent = low-MCTS-Dec
+Draws= 1| Wins = 46 | Losses = 53 
+Player avg move time = 0.05767293259307375| opponents avg move time = 0.6086790453303944
+------------------------------
+Current Player = Low-Mini| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0013636320653046376| opponents avg move time = 0.07537816220445402
+------------------------------
+Current Player = Low-Mini| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.00039526031130836123| opponents avg move time = 2.151060104370117e-05
+------------------------------
+Current Player = Low-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 3.684068980969881e-05| opponents avg move time = 0.0005530142784118653
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0008943856729043497| opponents avg move time = 0.01841336727142334
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS
+Draws= 0| Wins = 51 | Losses = 49 
+Player avg move time = 0.2207515047175651| opponents avg move time = 2.6567296339104876
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 8 | Losses = 89 
+Player avg move time = 0.10803413727440431| opponents avg move time = 2.356104823795339
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini-Id
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0010936019998608213| opponents avg move time = 0.23916570779049035
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2617938501822343| opponents avg move time = 0.0
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 99 | Losses = 1 
+Player avg move time = 0.267046342181081| opponents avg move time = 1.7546770865457099e-06
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-MCTS
+Draws= 2| Wins = 40 | Losses = 58 
+Player avg move time = 0.25228418830018606| opponents avg move time = 0.25657070235310697
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini
+Draws= 1| Wins = 46 | Losses = 53 
+Player avg move time = 0.47897190054522976| opponents avg move time = 0.050788644946947806
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 5| Wins = 39 | Losses = 56 
+Player avg move time = 0.5314154536635788| opponents avg move time = 0.5041001008738745
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2522518630310374| opponents avg move time = 0.00012336784618863466
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2515418911291883| opponents avg move time = 0.0004934836112731717
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini
+Draws= 13| Wins = 3 | Losses = 84 
+Player avg move time = 0.5482888139584079| opponents avg move time = 0.37483760307132197
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS
+Draws= 10| Wins = 28 | Losses = 62 
+Player avg move time = 0.25530342335970896| opponents avg move time = 2.0076267699921475
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 26 | Losses = 74 
+Player avg move time = 0.25309708758441396| opponents avg move time = 2.002486777305603
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini-Id
+Draws= 4| Wins = 20 | Losses = 76 
+Player avg move time = 0.6724933224798039| opponents avg move time = 0.8884468073962724
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.612853927805855| opponents avg move time = 2.0328576002663715e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0930841619318181e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-MCTS
+Draws= 1| Wins = 78 | Losses = 21 
+Player avg move time = 1.5770821244045992| opponents avg move time = 1.5336825953989546
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-Mini
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 9.287595748901367e-06| opponents avg move time = 2.2218845508716726e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = low-MCTS-Dec
+Draws= 14| Wins = 49 | Losses = 37 
+Player avg move time = 0.31182311538836405| opponents avg move time = 0.5425587770919076
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Q-lean
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.26628797561034095| opponents avg move time = 4.089157913527859e-05
+------------------------------
+Current Player = Low-Mini-Id| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.005713856094761899| opponents avg move time = 0.000734562079111735
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini
+Draws= 1| Wins = 98 | Losses = 1 
+Player avg move time = 0.07592326944524591| opponents avg move time = 0.033205195171077076
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS
+Draws= 2| Wins = 72 | Losses = 26 
+Player avg move time = 1.5493876771628856| opponents avg move time = 3.6992639398514315
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 71 | Losses = 29 
+Player avg move time = 1.3206684238115947| opponents avg move time = 3.333095864882092
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.016416161276114644| opponents avg move time = 0.041212165632613734
+------------------------------
+Current Player = Q-lean| Opponent = Rand
+Draws= 0| Wins = 83 | Losses = 17 
+Player avg move time = 0.00021018211658184344| opponents avg move time = 0.0
+------------------------------
+Current Player = Q-lean| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0910901156338779e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Q-lean| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 7.964287626604931e-05| opponents avg move time = 0.29886354762277784
+------------------------------
+Current Player = Q-lean| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.6002655029296876e-05| opponents avg move time = 9.529931204659599e-07
+------------------------------
+Current Player = Q-lean| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 4.7159910202026367e-05| opponents avg move time = 0.25257310594831195
+------------------------------
+Current Player = Q-lean| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 9.313523769378662e-06| opponents avg move time = 2.8795074014102713e-05
+------------------------------
+Current Player = Q-lean| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.2858935764857701e-05| opponents avg move time = 0.0006972063504732572
+------------------------------
+Current Player = Q-lean| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.4857769012451171e-05| opponents avg move time = 0.12252809433710007
+------------------------------
+===============================================================OLD AGAIN I ACCIDENTALLY CLICKED END !!!!!!===========================================================================Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 2 | Losses = 98 
+Player avg move time = 0.0| opponents avg move time = 0.0003719495945289487
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.2584509986672198
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 2.102373035383025e-06| opponents avg move time = 0.06918296353383498
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.948088118173544e-06| opponents avg move time = 0.25164869654495103
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.8951567736538974e-06| opponents avg move time = 2.6360026556727796
+------------------------------
+Current Player = Rand| Opponent = Q-learn
+Draws= 0| Wins = 14 | Losses = 86 
+Player avg move time = 1.6103846191011839e-06| opponents avg move time = 1.0693164272162751e-05
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 0| Wins = 7 | Losses = 93 
+Player avg move time = 0.0| opponents avg move time = 0.0005502955001943252
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 3.4569362509567125
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.005164373425928
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.001531686888605
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 4.12488721080662e-06| opponents avg move time = 6.281537002937816
+------------------------------
+Current Player = Heuristic| Opponent = Rand
+Draws= 0| Wins = 94 | Losses = 6 
+Player avg move time = 3.167567866863591e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Heuristic| Opponent = Low-MCTS
+Draws= 0| Wins = 2 | Losses = 98 
+Player avg move time = 1.779315310440878e-05| opponents avg move time = 0.47761952212599457
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.0029811739921569826
+------------------------------
+Current Player = Heuristic| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.5328147685633295e-06| opponents avg move time = 0.28604419173263923
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.6717209066435645e-06| opponents avg move time = 0.14079093785933505
+------------------------------
+Current Player = Heuristic| Opponent = Q-learn
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 1.4541799371892756e-05
+------------------------------
+Current Player = Heuristic| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 9.333292643229167e-06| opponents avg move time = 0.0005427955758982692
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.051224502783555254
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS
+Draws= 0| Wins = 16 | Losses = 84 
+Player avg move time = 4.089247929266985e-05| opponents avg move time = 2.15302444496563
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 6 | Losses = 94 
+Player avg move time = 1.9623831293048814e-05| opponents avg move time = 2.0634721381323677
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.8180500377308238e-06| opponents avg move time = 0.1407141919930776
+------------------------------
+Current Player = Low-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.26278463257493406| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 98 | Losses = 2 
+Player avg move time = 0.3273023670939426| opponents avg move time = 5.009178327200608e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini
+Draws= 3| Wins = 44 | Losses = 53 
+Player avg move time = 0.7480637302823887| opponents avg move time = 0.16021881882087097
+------------------------------
+Current Player = Low-MCTS| Opponent = low-MCTS-Dec
+Draws= 3| Wins = 55 | Losses = 42 
+Player avg move time = 0.2594771146627029| opponents avg move time = 0.2525846261972237
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini-Id
+Draws= 1| Wins = 12 | Losses = 87 
+Player avg move time = 0.8693755734538554| opponents avg move time = 1.8550083682096794
+------------------------------
+Current Player = Low-MCTS| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2621183115656096| opponents avg move time = 4.042129701631341e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = DQN
+Draws= 0| Wins = 92 | Losses = 8 
+Player avg move time = 0.2570702213273957| opponents avg move time = 0.000460984822067219
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini
+Draws= 0| Wins = 31 | Losses = 69 
+Player avg move time = 0.7884328813675869| opponents avg move time = 1.4945143032968844
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS
+Draws= 4| Wins = 21 | Losses = 75 
+Player avg move time = 0.26001207643929597| opponents avg move time = 2.00371590380629
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS-Dec
+Draws= 6| Wins = 21 | Losses = 73 
+Player avg move time = 0.2580444445219519| opponents avg move time = 2.0022393117180206
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini-Id
+Draws= 2| Wins = 38 | Losses = 60 
+Player avg move time = 1.0635282610612393| opponents avg move time = 2.364354368347129
+------------------------------
+Current Player = Low-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.023370272463018243| opponents avg move time = 1.9998550415039062e-06
+------------------------------
+Current Player = Low-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0| opponents avg move time = 1.8228184093128551e-06
+------------------------------
+Current Player = Low-Mini| Opponent = Low-MCTS
+Draws= 5| Wins = 36 | Losses = 59 
+Player avg move time = 0.14372045455063623| opponents avg move time = 0.9060583179805287
+------------------------------
+Current Player = Low-Mini| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 68 | Losses = 32 
+Player avg move time = 0.0846440699276508| opponents avg move time = 0.5807562277692816
+------------------------------
+Current Player = Low-Mini| Opponent = Low-Mini-Id
+Draws= 0| Wins = 49 | Losses = 51 
+Player avg move time = 0.002684666356356559| opponents avg move time = 0.17859005212783813
+------------------------------
+Current Player = Low-Mini| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0013769199631430886| opponents avg move time = 1.4284905933198475e-05
+------------------------------
+Current Player = Low-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0007339465099832286| opponents avg move time = 0.0006205099279230291
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.00022888238089425222| opponents avg move time = 0.03221106461116246
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS
+Draws= 1| Wins = 29 | Losses = 70 
+Player avg move time = 0.1712992573656687| opponents avg move time = 2.4472258547702466
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS-Dec
+Draws= 17| Wins = 12 | Losses = 71 
+Player avg move time = 0.10850425818618122| opponents avg move time = 2.3156630886498317
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0010948465167993084| opponents avg move time = 0.3083806431553445
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.260409259186766| opponents avg move time = 0.0
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.25132970041350317| opponents avg move time = 1.79241207765422e-06
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-MCTS
+Draws= 5| Wins = 35 | Losses = 60 
+Player avg move time = 0.2531351357859728| opponents avg move time = 0.2573137775819693
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini
+Draws= 2| Wins = 28 | Losses = 70 
+Player avg move time = 0.48244969443203933| opponents avg move time = 0.05624866611410257
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 3| Wins = 14 | Losses = 83 
+Player avg move time = 0.5830933186959566| opponents avg move time = 0.7589736581230041
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2574245466854109| opponents avg move time = 0.00030619649649124
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2525671753564433| opponents avg move time = 0.0006130093156126845
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini
+Draws= 1| Wins = 19 | Losses = 80 
+Player avg move time = 0.5262344463498421| opponents avg move time = 0.5801509604314694
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS
+Draws= 10| Wins = 39 | Losses = 51 
+Player avg move time = 0.25216595060841607| opponents avg move time = 2.0062604583039576
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS-Dec
+Draws= 1| Wins = 32 | Losses = 67 
+Player avg move time = 0.2528828345739794| opponents avg move time = 2.002141009998768
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini-Id
+Draws= 0| Wins = 27 | Losses = 73 
+Player avg move time = 0.5486955737617174| opponents avg move time = 1.2550211207811222
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.5847837051024307| opponents avg move time = 3.6893295625918904e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.3846984276404748e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-MCTS
+Draws= 1| Wins = 76 | Losses = 23 
+Player avg move time = 1.4546901413149096| opponents avg move time = 1.466519118787768
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-Mini
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 1.2779368294609918e-05| opponents avg move time = 1.6662809583875868e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = low-MCTS-Dec
+Draws= 6| Wins = 89 | Losses = 5 
+Player avg move time = 0.4071979283353962| opponents avg move time = 0.5508844542854442
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2319356325569503| opponents avg move time = 0.0002764766032879169
+------------------------------
+Current Player = Low-Mini-Id| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.03447848807272333| opponents avg move time = 0.0006779187892770169
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini
+Draws= 1| Wins = 53 | Losses = 46 
+Player avg move time = 0.09569967087670361| opponents avg move time = 0.07738108940170584
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS
+Draws= 1| Wins = 75 | Losses = 24 
+Player avg move time = 1.9895740650365445| opponents avg move time = 4.334706752703291
+------------------------------
+===============================================================================OLD plot data again========================================================================================
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 3 | Losses = 97 
+Player avg move time = 0.0| opponents avg move time = 0.0001599934226588199
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.2576502963300153
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.07211622521546387
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.949641207273011e-06| opponents avg move time = 0.25188131230762545
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.9458481309942697e-06| opponents avg move time = 2.2442850161951484
+------------------------------
+Current Player = Rand| Opponent = Q-learn
+Draws= 0| Wins = 16 | Losses = 84 
+Player avg move time = 0.0| opponents avg move time = 6.781190128649696e-06
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 0| Wins = 6 | Losses = 94 
+Player avg move time = 2.8040025617692855e-06| opponents avg move time = 0.0005718461766701599
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.9247715289776143e-06| opponents avg move time = 3.551843189774898
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.004930306021793
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 2.0026909078124664
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.859803483292863e-06| opponents avg move time = 6.62508670502985
+------------------------------
+Current Player = Heuristic| Opponent = Rand
+Draws= 0| Wins = 97 | Losses = 3 
+Player avg move time = 0.00018640288704716007| opponents avg move time = 0.0
+------------------------------
+Current Player = Heuristic| Opponent = Low-MCTS
+Draws= 0| Wins = 7 | Losses = 93 
+Player avg move time = 7.321194904606517e-05| opponents avg move time = 0.731171491660608
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.0767000638521635e-06| opponents avg move time = 4.286084856305804e-06
+------------------------------
+Current Player = Heuristic| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 1.551940523344895e-05| opponents avg move time = 0.3322903200249604
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.0590087890625
+------------------------------
+Current Player = Heuristic| Opponent = Q-learn
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 5.561775631374783e-06| opponents avg move time = 1.1107391781277127e-05
+------------------------------
+Current Player = Heuristic| Opponent = DQN
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 1.2497703234354656e-05| opponents avg move time = 0.0005468591054280599
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.9998550415039062e-06| opponents avg move time = 0.03768820675936612
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS
+Draws= 0| Wins = 15 | Losses = 85 
+Player avg move time = 2.8113281231346225e-05| opponents avg move time = 2.153707383246383
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 6 | Losses = 94 
+Player avg move time = 1.2437906642418124e-05| opponents avg move time = 2.071679687602656
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.35994368647762e-06| opponents avg move time = 0.21769845515639338
+------------------------------
+Current Player = Low-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.25824619525279285| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 97 | Losses = 3 
+Player avg move time = 0.5962385559810027| opponents avg move time = 2.7957715486225327e-05
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini
+Draws= 10| Wins = 29 | Losses = 61 
+Player avg move time = 0.8076832882524553| opponents avg move time = 0.17577117091215752
+------------------------------
+Current Player = Low-MCTS| Opponent = low-MCTS-Dec
+Draws= 3| Wins = 58 | Losses = 39 
+Player avg move time = 0.26107011241130573| opponents avg move time = 0.25330400380168705
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini-Id
+Draws= 1| Wins = 16 | Losses = 83 
+Player avg move time = 0.9498921757835898| opponents avg move time = 1.442267007971117
+------------------------------
+Current Player = Low-MCTS| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.2642209035269222| opponents avg move time = 5.29762924901697e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = DQN
+Draws= 1| Wins = 93 | Losses = 6 
+Player avg move time = 0.2598147517966426| opponents avg move time = 0.0007356236438767792
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini
+Draws= 2| Wins = 23 | Losses = 75 
+Player avg move time = 1.2778245154768229| opponents avg move time = 2.2429992362980964
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS
+Draws= 7| Wins = 18 | Losses = 75 
+Player avg move time = 0.25783354764282307| opponents avg move time = 2.008189585067181
+------------------------------
+Finale plots!!Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 78 | Losses = 22 
+Player avg move time = 0.0| opponents avg move time = 2.857616969517299e-06
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 4| Wins = 53 | Losses = 43 
+Player avg move time = 0.0| opponents avg move time = 0.251472385838414
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 50| Wins = 36 | Losses = 14 
+Player avg move time = 0.0| opponents avg move time = 0.0018549039250328426
+------------------------------
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 9.534470346339892e-07| opponents avg move time = 2.853529793875558e-06
+------------------------------
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 3 | Losses = 97 
+Player avg move time = 0.0| opponents avg move time = 0.00012928601038658013
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.2518154251209004
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.07367531769640505
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.20058174466998976
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 5.703461940750876e-06| opponents avg move time = 1.4745198670360777
+------------------------------
+Current Player = Rand| Opponent = Q-learn
+Draws= 0| Wins = 13 | Losses = 87 
+Player avg move time = 0.0| opponents avg move time = 0.019655016805395227
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 0| Wins = 19 | Losses = 81 
+Player avg move time = 0.0| opponents avg move time = 0.0005992477004592483
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.6356665871360087e-06| opponents avg move time = 1.0131881324450176
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 1.007028512708072
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 1.0025798563446318
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 8.322840668803194e-06| opponents avg move time = 2.0172266794014337
+------------------------------
+Current Player = Rand| Opponent = Heuristic
+Draws= 0| Wins = 3 | Losses = 97 
+Player avg move time = 0.0| opponents avg move time = 0.00013763997589048664
+------------------------------
+Current Player = Rand| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.2522922318877903
+------------------------------
+Current Player = Rand| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 7.926355494130955e-06| opponents avg move time = 0.1073663617039586
+------------------------------
+Current Player = Rand| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.20070086904869225
+------------------------------
+Current Player = Rand| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.791172092734523e-06| opponents avg move time = 1.9009355994609654
+------------------------------
+Current Player = Rand| Opponent = Q-learn
+Draws= 0| Wins = 15 | Losses = 85 
+Player avg move time = 0.0| opponents avg move time = 0.026906193099794203
+------------------------------
+Current Player = Rand| Opponent = DQN
+Draws= 0| Wins = 20 | Losses = 80 
+Player avg move time = 1.949176453707511e-06| opponents avg move time = 0.0007055578530383593
+------------------------------
+Current Player = Rand| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.7445261885480184e-06| opponents avg move time = 1.490863913908983
+------------------------------
+Current Player = Rand| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 1.0082212975810079
+------------------------------
+Current Player = Rand| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 1.00207889476716
+------------------------------
+Current Player = Rand| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 4.198769448508679e-06| opponents avg move time = 3.334264641440802
+------------------------------
+Current Player = Heuristic| Opponent = Rand
+Draws= 0| Wins = 98 | Losses = 2 
+Player avg move time = 4.302045350433678e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Heuristic| Opponent = Low-MCTS
+Draws= 0| Wins = 4 | Losses = 96 
+Player avg move time = 5.21177577661769e-05| opponents avg move time = 0.4983601414796078
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.0020300967876727763
+------------------------------
+Current Player = Heuristic| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 11 | Losses = 89 
+Player avg move time = 2.6919384577006055e-05| opponents avg move time = 0.26795336097034056
+------------------------------
+Current Player = Heuristic| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0| opponents avg move time = 0.08314961075782776
+------------------------------
+Current Player = Heuristic| Opponent = Q-learn
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 5.882768069996554e-06| opponents avg move time = 1.6477809232823988e-05
+------------------------------
+Current Player = Heuristic| Opponent = DQN
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 5.714552743094308e-06| opponents avg move time = 0.0006743567330496652
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.6653537750244141e-06| opponents avg move time = 0.015605426568251389
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 7.874195969949557e-06| opponents avg move time = 1.0349348250188326
+------------------------------
+Current Player = Heuristic| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 3 | Losses = 97 
+Player avg move time = 1.844209982148299e-05| opponents avg move time = 1.0664382402567154
+------------------------------
+Current Player = Heuristic| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.6681353251139324e-06| opponents avg move time = 0.12578224879044753
+------------------------------
+Current Player = Low-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.26196089175742443| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.29468171005882887| opponents avg move time = 6.531578263426139e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini
+Draws= 2| Wins = 37 | Losses = 61 
+Player avg move time = 0.5520880093207726| opponents avg move time = 0.139884044690301
+------------------------------
+Current Player = Low-MCTS| Opponent = low-MCTS-Dec
+Draws= 4| Wins = 59 | Losses = 37 
+Player avg move time = 0.2587200552941023| opponents avg move time = 0.20476674703806433
+------------------------------
+Current Player = Low-MCTS| Opponent = Low-Mini-Id
+Draws= 2| Wins = 19 | Losses = 79 
+Player avg move time = 0.6118346053169883| opponents avg move time = 1.1747778853447826
+------------------------------
+Current Player = Low-MCTS| Opponent = Q-learn
+Draws= 0| Wins = 96 | Losses = 4 
+Player avg move time = 0.2631538109271387| opponents avg move time = 9.225056135882884e-06
+------------------------------
+Current Player = Low-MCTS| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.26007487496219006| opponents avg move time = 0.0009448517646108355
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini
+Draws= 2| Wins = 24 | Losses = 74 
+Player avg move time = 0.6328405009725163| opponents avg move time = 0.7583747176035524
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS
+Draws= 2| Wins = 20 | Losses = 78 
+Player avg move time = 0.26016919622669143| opponents avg move time = 1.007396146915103
+------------------------------
+Current Player = Low-MCTS| Opponent = High-MCTS-Dec
+Draws= 4| Wins = 25 | Losses = 71 
+Player avg move time = 0.2588721261198854| opponents avg move time = 1.003729522154198
+------------------------------
+Current Player = Low-MCTS| Opponent = High-Mini-Id
+Draws= 5| Wins = 17 | Losses = 78 
+Player avg move time = 0.8475628832882115| opponents avg move time = 2.1276996160991306
+------------------------------
+Current Player = Low-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.02069249949391195| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini| Opponent = Low-MCTS
+Draws= 4| Wins = 61 | Losses = 35 
+Player avg move time = 0.22737400634547908| opponents avg move time = 0.8341333752447935
+------------------------------
+Current Player = Low-Mini| Opponent = low-MCTS-Dec
+Draws= 4| Wins = 73 | Losses = 23 
+Player avg move time = 0.1077861498857258| opponents avg move time = 0.39593793143631717
+------------------------------
+Current Player = Low-Mini| Opponent = Low-Mini-Id
+Draws= 1| Wins = 94 | Losses = 5 
+Player avg move time = 0.004938683788915942| opponents avg move time = 0.07877549910374528
+------------------------------
+Current Player = Low-Mini| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.00031579911708831785| opponents avg move time = 1.2021064758300782e-05
+------------------------------
+Current Player = Low-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 6.450441148546006e-05| opponents avg move time = 0.0007149970531463623
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.000981978045569526| opponents avg move time = 0.012667565990138699
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS
+Draws= 2| Wins = 43 | Losses = 55 
+Player avg move time = 0.29681456895478686| opponents avg move time = 1.6618113636021519
+------------------------------
+Current Player = Low-Mini| Opponent = High-MCTS-Dec
+Draws= 6| Wins = 43 | Losses = 51 
+Player avg move time = 0.2559260201481164| opponents avg move time = 1.6088824772955939
+------------------------------
+Current Player = Low-Mini| Opponent = High-Mini-Id
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0003750407390105419| opponents avg move time = 0.06041623335618239
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.21146302504671943| opponents avg move time = 0.0
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 90 | Losses = 10 
+Player avg move time = 0.31883870872632| opponents avg move time = 2.270667303742931e-05
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-MCTS
+Draws= 4| Wins = 35 | Losses = 61 
+Player avg move time = 0.20384355405084917| opponents avg move time = 0.26361414737727223
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini
+Draws= 5| Wins = 30 | Losses = 65 
+Player avg move time = 0.3986977913760734| opponents avg move time = 0.07924680006745644
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 3| Wins = 20 | Losses = 77 
+Player avg move time = 0.376488245176998| opponents avg move time = 1.3397637175119994
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Q-learn
+Draws= 0| Wins = 91 | Losses = 9 
+Player avg move time = 0.2085906240009269| opponents avg move time = 1.7142141020143187e-05
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 97 | Losses = 3 
+Player avg move time = 0.20105157199658846| opponents avg move time = 0.001361221353584361
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini
+Draws= 8| Wins = 15 | Losses = 77 
+Player avg move time = 0.3732357335343123| opponents avg move time = 0.8629363067035746
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS
+Draws= 5| Wins = 30 | Losses = 65 
+Player avg move time = 0.20382067619037564| opponents avg move time = 1.014988556148519
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS-Dec
+Draws= 2| Wins = 23 | Losses = 75 
+Player avg move time = 0.20293430867553888| opponents avg move time = 1.004351516849332
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.20023814163406004| opponents avg move time = 0.0
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 99 | Losses = 1 
+Player avg move time = 0.20057278157522282| opponents avg move time = 4.172490933011072e-06
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-MCTS
+Draws= 2| Wins = 48 | Losses = 50 
+Player avg move time = 0.20071319657016204| opponents avg move time = 0.25160314233098796
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini
+Draws= 4| Wins = 28 | Losses = 68 
+Player avg move time = 0.20191124831840443| opponents avg move time = 0.07061904813461446
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 6| Wins = 24 | Losses = 70 
+Player avg move time = 0.22095562511658573| opponents avg move time = 0.8815298349372944
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = Q-learn
+Draws= 0| Wins = 98 | Losses = 2 
+Player avg move time = 0.20448888387627612| opponents avg move time = 0.009626842810183155
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.20190241534239167| opponents avg move time = 0.0006018126662156927
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini
+Draws= 2| Wins = 34 | Losses = 64 
+Player avg move time = 0.25446876518462125| opponents avg move time = 0.8603398385188699
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS
+Draws= 1| Wins = 27 | Losses = 72 
+Player avg move time = 0.204664483863443| opponents avg move time = 1.0076689205404992
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 17 | Losses = 80 
+Player avg move time = 0.2038376229756752| opponents avg move time = 1.002771586089696
+------------------------------
+Current Player = low-MCTS-Dec| Opponent = High-Mini-Id
+Draws= 5| Wins = 18 | Losses = 77 
+Player avg move time = 0.29715968586869473| opponents avg move time = 2.1244913278201474
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.1472569124593281| opponents avg move time = 8.97193337506789e-06
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.007704447832974521| opponents avg move time = 0.0
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-MCTS
+Draws= 1| Wins = 74 | Losses = 25 
+Player avg move time = 1.1522570853370697| opponents avg move time = 0.8306848087763337
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Low-Mini
+Draws= 47| Wins = 4 | Losses = 49 
+Player avg move time = 0.10173472621087397| opponents avg move time = 0.0036822607629842584
+------------------------------
+Current Player = Low-Mini-Id| Opponent = low-MCTS-Dec
+Draws= 3| Wins = 80 | Losses = 17 
+Player avg move time = 1.0414787050849663| opponents avg move time = 0.36891771860963085
+------------------------------
+Current Player = Low-Mini-Id| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.1383254827468048| opponents avg move time = 2.1198443938371845e-05
+------------------------------
+Current Player = Low-Mini-Id| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.03279545942942302| opponents avg move time = 0.0007519775629043579
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini
+Draws= 44| Wins = 52 | Losses = 4 
+Player avg move time = 0.13612226757311052| opponents avg move time = 0.07515415154270685
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS
+Draws= 1| Wins = 70 | Losses = 29 
+Player avg move time = 1.2113227711608079| opponents avg move time = 2.05666894800711
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-MCTS-Dec
+Draws= 1| Wins = 71 | Losses = 28 
+Player avg move time = 0.8517110480852653| opponents avg move time = 1.7132458058162707
+------------------------------
+Current Player = Low-Mini-Id| Opponent = High-Mini-Id
+Draws= 1| Wins = 52 | Losses = 47 
+Player avg move time = 0.059453872058612994| opponents avg move time = 0.1518210941884014
+------------------------------
+Current Player = Q-learn| Opponent = Rand
+Draws= 0| Wins = 86 | Losses = 14 
+Player avg move time = 3.741662279307413e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = Q-learn| Opponent = Heuristic
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 7.054385016946232e-06| opponents avg move time = 2.3536121144014245e-06
+------------------------------
+Current Player = Q-learn| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0001233227322633489| opponents avg move time = 0.26397684928227194
+------------------------------
+Current Player = Q-learn| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.1113749610053168e-05| opponents avg move time = 0.004447738245913857
+------------------------------
+Current Player = Q-learn| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 8 | Losses = 92 
+Player avg move time = 7.0339343586906055e-06| opponents avg move time = 0.21055132216772451
+------------------------------
+Current Player = Q-learn| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.563757658004761e-05| opponents avg move time = 1.2942201950970818e-05
+------------------------------
+Current Player = Q-learn| Opponent = DQN
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 2.4491945902506512e-05| opponents avg move time = 0.0006773482428656684
+------------------------------
+Current Player = Q-learn| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 1.3015508651733399e-05| opponents avg move time = 0.03421306269509452
+------------------------------
+Current Player = Q-learn| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 2.411400773517572e-06| opponents avg move time = 1.0099963358786228
+------------------------------
+Current Player = Q-learn| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 3.361211935050874e-05| opponents avg move time = 1.0039411037140473
+------------------------------
+Current Player = Q-learn| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 2.564722563559081e-05| opponents avg move time = 0.3336135309173147
+------------------------------
+Current Player = DQN| Opponent = Rand
+Draws= 0| Wins = 81 | Losses = 19 
+Player avg move time = 0.0007002997442774711| opponents avg move time = 3.9508691418312285e-06
+------------------------------
+Current Player = DQN| Opponent = Heuristic
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0006972694396972656| opponents avg move time = 2.8569357735770088e-06
+------------------------------
+Current Player = DQN| Opponent = Low-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.000829496837797619| opponents avg move time = 0.27041616287637266
+------------------------------
+Current Player = DQN| Opponent = Low-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0006675696372985839| opponents avg move time = 0.007870730823940702
+------------------------------
+Current Player = DQN| Opponent = low-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0008504735488517612| opponents avg move time = 0.22032860220780018
+------------------------------
+Current Player = DQN| Opponent = Low-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0006552577018737793| opponents avg move time = 1.5549129909939237e-05
+------------------------------
+Current Player = DQN| Opponent = Q-learn
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.0006678851445515951| opponents avg move time = 1.1114014519585503e-05
+------------------------------
+Current Player = DQN| Opponent = High-Mini
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0006567732493082682| opponents avg move time = 0.02519535779953003
+------------------------------
+Current Player = DQN| Opponent = High-MCTS
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0011054388249542167| opponents avg move time = 1.0184889946838502
+------------------------------
+Current Player = DQN| Opponent = High-MCTS-Dec
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.001508841467140919| opponents avg move time = 1.0020253943131032
+------------------------------
+Current Player = DQN| Opponent = High-Mini-Id
+Draws= 0| Wins = 0 | Losses = 100 
+Player avg move time = 0.0005940675735473632| opponents avg move time = 0.08373332197015936
+------------------------------
+Current Player = High-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.6305610964484248| opponents avg move time = 1.9486312272483735e-06
+------------------------------
+Current Player = High-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.001642245054244995| opponents avg move time = 3.6413019353693183e-06
+------------------------------
+Current Player = High-Mini| Opponent = Low-MCTS
+Draws= 1| Wins = 83 | Losses = 16 
+Player avg move time = 1.0055869902344714| opponents avg move time = 1.0936989113581266
+------------------------------
+Current Player = High-Mini| Opponent = Low-Mini
+Draws= 50| Wins = 50 | Losses = 0 
+Player avg move time = 0.008368907361417204| opponents avg move time = 0.0006442934757954366
+------------------------------
+Current Player = High-Mini| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.23695869743824| opponents avg move time = 3.921751882515702e-06
+------------------------------
+Current Player = High-Mini| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.026295615832010906| opponents avg move time = 3.6755475130948153e-06
+------------------------------
+Current Player = High-Mini| Opponent = Low-MCTS
+Draws= 3| Wins = 67 | Losses = 30 
+Player avg move time = 0.5056206836810268| opponents avg move time = 0.33838407435053225
+------------------------------
+Current Player = High-Mini| Opponent = Low-Mini
+Draws= 50| Wins = 50 | Losses = 0 
+Player avg move time = 0.014313567601717436| opponents avg move time = 0.0019340704616747405
+------------------------------
+Current Player = High-Mini| Opponent = low-MCTS-Dec
+Draws= 4| Wins = 60 | Losses = 36 
+Player avg move time = 0.5308933002344215| opponents avg move time = 0.2605929943563639
+------------------------------
+Current Player = High-Mini| Opponent = Low-Mini-Id
+Draws= 0| Wins = 1 | Losses = 99 
+Player avg move time = 0.08336132070911464| opponents avg move time = 0.19988658927686787
+------------------------------
+Current Player = High-Mini| Opponent = Q-learn
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 0.014780268987019857| opponents avg move time = 0.0077398842175801594
+------------------------------
+Current Player = High-Mini| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.023032233979966905| opponents avg move time = 0.0006153762340545654
+------------------------------
+Current Player = High-Mini| Opponent = High-MCTS
+Draws= 16| Wins = 54 | Losses = 30 
+Player avg move time = 0.21766014105513012| opponents avg move time = 1.1002568375038844
+------------------------------
+Current Player = High-Mini| Opponent = High-MCTS-Dec
+Draws= 13| Wins = 55 | Losses = 32 
+Player avg move time = 0.43130356846228374| opponents avg move time = 1.20422201744848
+------------------------------
+Current Player = High-Mini| Opponent = High-Mini-Id
+Draws= 1| Wins = 47 | Losses = 52 
+Player avg move time = 0.08325778361823824| opponents avg move time = 0.29076143524683135
+------------------------------
+Current Player = High-MCTS| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0105871844217873| opponents avg move time = 0.0
+------------------------------
+Current Player = High-MCTS| Opponent = Heuristic
+Draws= 0| Wins = 96 | Losses = 4 
+Player avg move time = 1.1964606325006695| opponents avg move time = 7.172344237800659e-05
+------------------------------
+Current Player = High-MCTS| Opponent = Low-MCTS
+Draws= 1| Wins = 82 | Losses = 17 
+Player avg move time = 1.0055498775357021| opponents avg move time = 0.25795243871037066
+------------------------------
+Current Player = High-MCTS| Opponent = Low-Mini
+Draws= 4| Wins = 50 | Losses = 46 
+Player avg move time = 1.3636479733258309| opponents avg move time = 0.24094583384723584
+------------------------------
+Current Player = High-MCTS| Opponent = low-MCTS-Dec
+Draws= 2| Wins = 73 | Losses = 25 
+Player avg move time = 1.0083708446102653| opponents avg move time = 0.2026151289923266
+------------------------------
+Current Player = High-MCTS| Opponent = Low-Mini-Id
+Draws= 2| Wins = 43 | Losses = 55 
+Player avg move time = 1.6010376790816099| opponents avg move time = 1.170740879872802
+------------------------------
+Current Player = High-MCTS| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0093844993252092| opponents avg move time = 4.057953884075214e-06
+------------------------------
+Current Player = High-MCTS| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0071948759334604| opponents avg move time = 0.0011050306517502357
+------------------------------
+Current Player = High-MCTS| Opponent = High-Mini
+Draws= 8| Wins = 34 | Losses = 58 
+Player avg move time = 1.2654670597058941| opponents avg move time = 0.36323633482116935
+------------------------------
+Current Player = High-MCTS| Opponent = High-MCTS-Dec
+Draws= 1| Wins = 39 | Losses = 60 
+Player avg move time = 1.0109683604180058| opponents avg move time = 1.0029874050392296
+------------------------------
+Current Player = High-MCTS| Opponent = High-Mini-Id
+Draws= 11| Wins = 31 | Losses = 58 
+Player avg move time = 1.7989261055995303| opponents avg move time = 1.631291007703962
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0094743545654816| opponents avg move time = 2.0855403892182605e-06
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Heuristic
+Draws= 0| Wins = 99 | Losses = 1 
+Player avg move time = 1.4030869095742038| opponents avg move time = 6.728971224661553e-05
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Low-MCTS
+Draws= 2| Wins = 68 | Losses = 30 
+Player avg move time = 1.0029167889656867| opponents avg move time = 0.25937874625533913
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Low-Mini
+Draws= 7| Wins = 38 | Losses = 55 
+Player avg move time = 1.4862395298763755| opponents avg move time = 0.22279188782439183
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = low-MCTS-Dec
+Draws= 2| Wins = 69 | Losses = 29 
+Player avg move time = 1.0029818850423675| opponents avg move time = 0.2026431638975124
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Low-Mini-Id
+Draws= 1| Wins = 34 | Losses = 65 
+Player avg move time = 1.6319278350128934| opponents avg move time = 1.1741140178513336
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.006782796810086| opponents avg move time = 4.775774706700805e-06
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 1.0017318509321298| opponents avg move time = 0.001303509693240645
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = High-Mini
+Draws= 9| Wins = 45 | Losses = 46 
+Player avg move time = 1.3966023780446137| opponents avg move time = 0.4445989443472639
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = High-MCTS
+Draws= 1| Wins = 50 | Losses = 49 
+Player avg move time = 1.003099788170526| opponents avg move time = 1.0102038665548208
+------------------------------
+Current Player = High-MCTS-Dec| Opponent = High-Mini-Id
+Draws= 7| Wins = 27 | Losses = 66 
+Player avg move time = 1.7660078785112987| opponents avg move time = 1.6797178938166908
+------------------------------
+Current Player = High-Mini-Id| Opponent = Rand
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 2.41225239042771| opponents avg move time = 0.0
+------------------------------
+Current Player = High-Mini-Id| Opponent = Heuristic
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.085045842257413| opponents avg move time = 2.010822296142578e-06
+------------------------------
+Current Player = High-Mini-Id| Opponent = Low-MCTS
+Draws= 4| Wins = 91 | Losses = 5 
+Player avg move time = 1.796033164987| opponents avg move time = 1.2429424367669872
+------------------------------
+Current Player = High-Mini-Id| Opponent = Low-Mini
+Draws= 2| Wins = 50 | Losses = 48 
+Player avg move time = 0.17401907380084286| opponents avg move time = 0.004992311936390551
+------------------------------
+Current Player = High-Mini-Id| Opponent = low-MCTS-Dec
+Draws= 4| Wins = 78 | Losses = 18 
+Player avg move time = 1.8767162112779514| opponents avg move time = 0.41227882069226934
+------------------------------
+Current Player = High-Mini-Id| Opponent = Low-Mini-Id
+Draws= 0| Wins = 3 | Losses = 97 
+Player avg move time = 0.1426122654303443| opponents avg move time = 0.11564479715528742
+------------------------------
+Current Player = High-Mini-Id| Opponent = Q-learn
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.1927977179438172| opponents avg move time = 2.8346622339352404e-05
+------------------------------
+Current Player = High-Mini-Id| Opponent = DQN
+Draws= 0| Wins = 100 | Losses = 0 
+Player avg move time = 0.0658682812584771| opponents avg move time = 0.0008382034301757812
+------------------------------
+Current Player = High-Mini-Id| Opponent = High-Mini
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 1.8654691761937634e-05| opponents avg move time = 0.0
+------------------------------
+Current Player = High-Mini-Id| Opponent = High-MCTS
+Draws= 8| Wins = 68 | Losses = 24 
+Player avg move time = 1.8567184215048813| opponents avg move time = 2.8386120768903775
+------------------------------
+Current Player = High-Mini-Id| Opponent = High-MCTS-Dec
+Draws= 3| Wins = 71 | Losses = 26 
+Player avg move time = 1.943773834260746| opponents avg move time = 2.4583462294341594
+------------------------------
+Current Player = Q-learn| Opponent = Rand
+Draws= 0| Wins = 85 | Losses = 15 
+Player avg move time = 0.016814209380239812| opponents avg move time = 0.0
+------------------------------
+Current Player = Q-learn| Opponent = Heuristic
+Draws= 0| Wins = 50 | Losses = 50 
+Player avg move time = 1.1803963605095358e-05| opponents avg move time = 5.883609547334558e-06
+------------------------------
